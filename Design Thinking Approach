@@ -4,67 +4,67 @@
 ● Meaningful commits from every student each week. Interleaving of commits is expected.
 ● Commits should identify when this part of the report was added to or modified in the markdown file.
 
-
-How Might We Statements:
-1.How might we find a way to book with customers?
-2. How might we improve the operation of the the CMC?
-3. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
-4. How might we improve the packages available to customers?
-5. How might we improve the way the relationship managers are matched with the customers?
-6. How might we improve the customers' likelihood score to purchase a product/package?
-7. How might we improve the operation during busy times?
-8. How might we improve the RM matching technique further?
-9. How might we improve the way we approach the customers?
-10. How might we improve the operation during times of low levels of customers?
-11. How might we ensure that we're able to fulfil all customers orders?
-12. How might we improve the overall customer experience?
-
-
-Point of View Statement:
-=contains user, need and insight
-=contains how might we statement
+Point of View Statement: =contains user, need and insight =contains how might we statement
 
 1. User: A customer 
-   Need: needs to know what package will suit them
-   Insight: in order to purchase and go to their dream destination.
+   Need: needs to know what package is most cost effective 
+   Insight: in order to spend wisely when purchasing a package
+   Priority: High
    
 2. User: Relationship Manager
    Need: needs to get as much customers to buy the package
    Insight: in order for the skill score in the matrix to increase
+   Priority: High
 
 3. User: Customer
    Need: want to informed about the package
    Insight: so that i can make the right decision when purchasing 
+   Priority: High
    
 4. User: Customer
    Need: I want to be able to know about the most timely package to my destination 
    Insight: so that i can save travel time
+   Priority: High
    
-5. User: Customer
-   Need: I want to know about the most cost effective package to my destination
-   Insight: so that I can spend wisely when purchasing a package 
-   
-6. User:Customer
+5. User:Customer
    Need:I want to book a holiday
    Insight: so that I can travel abroad
+   Priority: High
    
-7. User: Customer
+6. User: Customer
    Need:I want to quickly contact a RM
    Insight:so that I can save my time.
+   Priority: High
    
-8. User:RM
+7. User:RM
    Need: I want to provide correct and timely information to the customer
    Insight:so that I can sell a package 
+   Priority: High
    
-9. User: Customer
+8. User: Customer
    Need:I want to talk to a knowledgeable RM 
    Insight:so that I can have my queries answered. 
+   Priority: High
 
-10. User: RM
+9. User: RM
    Need: I want training
    Insight: So that I can improve my selling technqiues
+   Priority: High
+  
+  How Might We Statements:
+1.How might we find a way to book with customers?
+2. How might we improve the operation of the the CMC?
+3. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
+4. How might we improve the packages available to customers?
+5. How might we improve the way the relationship managers are matched with the customers further?
+6. How might we improve the customers' likelihood score to purchase a product/package?
+7. How might we improve the operation during busy times?
+8. How might we improve the way we approach the customers?
+9. How might we improve the operation during times of low levels of customers?
+10. How might we ensure that we're able to fulfil all customers orders?
+11. How might we improve the overall customer experience?
    
-   Reflection:
+   Reflection/Assumptions:
    
 Using the empathy maps we have as a team been able to evaluate the customer and their relationship with the RM which allowed us to attain different perceptions of the customer and the RM. 
 It allowed us to understand how the customer may feel and their needs and wants in regard to this experience. We came to the conclusion that the customer going into this experience does not
