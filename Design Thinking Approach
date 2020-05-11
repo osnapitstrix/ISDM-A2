@@ -40,10 +40,19 @@ Point of View Statement:
 5. User: Customer
    Need: I want to know about the most cost effective package to my destination
    Insight: so that I can spend wisely when purchasing a package 
-
-
-User Stories:
-1. As a customer, I want to book a holiday, so that I can travel abroad
-2. As a customer, I want to quickly contant a RM, so that I can save my time.
-3. As a RM, I want to provide correct and timely information to the customer, so that I can sell a package
-4. As a customer, I want to talk to a knowledgeable RM, so that I can have my queries answered. 
+   
+6. User:Customer
+   Need:I want to book a holiday
+   Insight: so that I can travel abroad
+   
+7. User: Customer
+   Need:I want to quickly contact a RM
+   Insight:so that I can save my time.
+   
+8. User:RM
+   Need: I want to provide correct and timely information to the customer
+   Insight:so that I can sell a package 
+   
+9. User: Customer
+   Need:I want to talk to a knowledgeable RM 
+   Insight:so that I can have my queries answered. 
