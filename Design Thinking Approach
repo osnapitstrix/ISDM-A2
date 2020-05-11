@@ -17,3 +17,33 @@ How Might We Statements:
 9. How might we improve the way we approach the customers?
 10. How might we improve the operation during times of low levels of customers?
 
+Point of View Statement:
+=contains user, need and insight
+=contains how might we statement
+
+1. User: A customer 
+   Need: needs to know what package will suit them
+   Insight: in order to purchase and go to their dream destination.
+   
+2. User: Relationship Manager
+   Need: needs to get as much customers to buy the package
+   Insight: in order for the skill score in the matrix to increase
+
+3. User: Customer
+   Need: want to informed about the package
+   Insight: so that i can make the right decision when purchasing 
+   
+4. User: Customer
+   Need: I want to be able to know about the most timely package to my destination 
+   Insight: so that i can save travel time
+   
+5. User: Customer
+   Need: I want to know about the most cost effective package to my destination
+   Insight: so that I can spend wisely when purchasing a package 
+
+
+User Stories:
+1. As a customer, I want to book a holiday, so that I can travel abroad
+2. As a customer, I want to quickly contant a RM, so that I can save my time.
+3. As a RM, I want to provide correct and timely information to the customer, so that I can sell a package
+4. As a customer, I want to talk to a knowledgeable RM, so that I can have my queries answered. 
