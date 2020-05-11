@@ -16,6 +16,9 @@ How Might We Statements:
 8. How might we improve the RM matching technique further?
 9. How might we improve the way we approach the customers?
 10. How might we improve the operation during times of low levels of customers?
+11. How might we ensure that we're able to fulfil all customers orders?
+12. How might we improve the overall customer experience?
+
 
 Point of View Statement:
 =contains user, need and insight
@@ -60,3 +63,9 @@ Point of View Statement:
 10. User: RM
    Need: I want training
    Insight: So that I can improve my selling technqiues
+   
+   Assumptions:
+   
+ While creating the 'how might we' statements the assumptions gathered are:
+    - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
+    - 
