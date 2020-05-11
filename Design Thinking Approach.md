@@ -5,9 +5,13 @@
 * Meaningful commits from every student each week. Interleaving of commits is expected.
 * Commits should identify when this part of the report was added to or modified in the markdown file.
 
+###### NOTE WHEN MARKING: This file was originally written as Design Thinking Approach without the md. I changed the format to use the markdown language like the assignment so it is not showing that the other group members Amna and Areeba have contributed. However, if you click COMMITS for the repository, you will see that COMMITS for May 11 2020 include the commits they have done in the tutorial class.
+
 ##### Point of View Statement: (contains user, need and insight and contains how might we statement)
 
-=> Prioritised Product Backlog categorised by Stakeholders
+=> Prioritised Product Backlog categorised by Stakeholders 
+WRITTEN BY PATRICIA ANN AND AREEBA
+
 #### Stakeholder 1: Relationship Manager
 1. User:Relationship Manager
    
@@ -196,7 +200,7 @@
 11. How might we improve the overall customer experience?
    
 #### REFLECTION/ASSUMPTIONS MADE SO FAR:
-   
+   WRITTEN BY AMNA
 Using the empathy maps we have as a team been able to evaluate the customer and their relationship with the RM which allowed us to attain different perceptions of the customer and the RM. 
 It allowed us to understand how the customer may feel and their needs and wants in regard to this experience. We came to the conclusion that the customer going into this experience does not
 have any knowledge and is merely a curious client wantng to be given all the knowledge possible in regards to travel packages. The customer will continue to extract more information to increase 
@@ -205,11 +209,7 @@ suceed and provide us as the most breakthrough solution. Through some further br
 sale and inventory system application. 
   
  While creating the 'how might we' statements the assumptions gathered are:
- 
-    * Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
-    
-    * The technique which matches RM with customers requires improvement 
-    
-    * Customers experience long waiting times 
-   
-    * The technology for the system is available
+*  Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
+* The technique which matches RM with customers requires improvement 
+* Customers experience long waiting times 
+* The technology for the system is available
