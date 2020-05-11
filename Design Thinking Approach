@@ -5,51 +5,61 @@
 ● Commits should identify when this part of the report was added to or modified in the markdown file.
 
 Point of View Statement: =contains user, need and insight =contains how might we statement
-
-1. User: A customer 
-   Need: needs to know what package is most cost effective 
-   Insight: in order to spend wisely when purchasing a package
+=> Prioritised Product Backlog categorised by Stakeholders (Relationship Manager and Customer)
+1. User:Relationship Manager
+   Need: I want to provide correct and timely information to the customer
+   Insight:so that I can sell a package 
    Priority: High
+   Issue Status: Open
    
 2. User: Relationship Manager
    Need: needs to get as much customers to buy the package
    Insight: in order for the skill score in the matrix to increase
    Priority: High
+   Issue Status: Open
+   
+3. User: Relationship Manager
+   Need: I want training
+   Insight: So that I can improve my selling technqiues
+   Priority: High
+   Issue Status: Open
 
 3. User: Customer
    Need: want to informed about the package
    Insight: so that i can make the right decision when purchasing 
    Priority: High
+   Issue Status: Open
    
-4. User: Customer
+4. User: A customer 
+   Need: needs to know what package is most cost effective 
+   Insight: in order to spend wisely when purchasing a package
+   Priority: High
+   Issue Status: Open
+   
+5. User: Customer
    Need: I want to be able to know about the most timely package to my destination 
    Insight: so that i can save travel time
    Priority: High
+   Issue Status: Open
    
-5. User:Customer
+6. User:Customer
    Need:I want to book a holiday
    Insight: so that I can travel abroad
    Priority: High
+   Issue Status: Open
    
-6. User: Customer
+7. User: Customer
    Need:I want to quickly contact a RM
    Insight:so that I can save my time.
    Priority: High
-   
-7. User:RM
-   Need: I want to provide correct and timely information to the customer
-   Insight:so that I can sell a package 
-   Priority: High
-   
+   Issue Status: Open
+    
 8. User: Customer
    Need:I want to talk to a knowledgeable RM 
    Insight:so that I can have my queries answered. 
    Priority: High
-
-9. User: RM
-   Need: I want training
-   Insight: So that I can improve my selling technqiues
-   Priority: High
+   Issue Status: Open
+   
   
   How Might We Statements:
 1.How might we find a way to book with customers?
