@@ -1,12 +1,15 @@
 ##### Meeting 2: 14 May 2020
 Attending: Patricia and Ishita
+
 Meeting Time 11:00-11:30
+
 Absent: Amna and Areeba
+
 Minute Taker: Patricia Ann
+
 Room: Zoom Meeting
 
-Agenda for Meeting
- 
+Agenda for Meeting: 
 Topic 1: Assignment 1 Specifications for Prototype
 
 Discussion: 
