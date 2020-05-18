@@ -76,7 +76,7 @@ WRITTEN BY PATRICIA ANN AND AREEBA
    
    Issue Status: Open
    
-   ![RM.JPG]()
+   ![RM.JPG](C:\Users\areeb\OneDrive\Documents\UTS2020!\Info Sys Dev)
 
 #### Stakeholder 2: Manager of Relationship Managers/Travel Company
 1. User: Manager of all the relationship managers/travel company
