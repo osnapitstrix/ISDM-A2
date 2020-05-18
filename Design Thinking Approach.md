@@ -66,17 +66,8 @@ WRITTEN BY PATRICIA ANN AND AREEBA
    
    Issue Status: Open
    
-6. User: Relationship Manager
-   
-   Need: I want training
-   
-   Insight: So that I can improve my selling technqiues
-   
-   Priority: High
-   
-   Issue Status: Open
-   
-  ![RM](https://user-images.githubusercontent.com/62224104/82169342-8d6ef700-9904-11ea-973f-d3380f4d818c.JPG)
+![RM 1](https://user-images.githubusercontent.com/62224104/82170562-2b17f580-9908-11ea-92a1-58e188cb087a.JPG)
+
 
 #### Stakeholder 2: Manager of Relationship Managers/Travel Company
 1. User: Manager of all the relationship managers/travel company
@@ -119,7 +110,8 @@ WRITTEN BY PATRICIA ANN AND AREEBA
    
    Issue Status: Open
    
-   ![TC](https://user-images.githubusercontent.com/62224104/82169385-ad061f80-9904-11ea-9810-6ecdf8c7941e.JPG)
+  ![TC 1](https://user-images.githubusercontent.com/62224104/82170570-2f441300-9908-11ea-859f-ea77cf771e7b.JPG)
+
    
 #### Stakeholder 3 : Customer 
 1. User: A customer 
@@ -182,7 +174,7 @@ WRITTEN BY PATRICIA ANN AND AREEBA
    
    Issue Status: Open
    
-  ![image](https://user-images.githubusercontent.com/62224104/82169031-91e6e000-9903-11ea-8807-90c28139c712.png)
+  ![Customer 1](https://user-images.githubusercontent.com/62224104/82170555-26534180-9908-11ea-8204-7bf6153e54b0.JPG)
   
   How Might We Statements:
 1.How might we find a way to book with customers?
