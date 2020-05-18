@@ -119,6 +119,8 @@ WRITTEN BY PATRICIA ANN AND AREEBA
    
    Issue Status: Open
    
+   ![TC](https://user-images.githubusercontent.com/62224104/82169385-ad061f80-9904-11ea-9810-6ecdf8c7941e.JPG)
+   
 #### Stakeholder 3 : Customer 
 1. User: A customer 
    
