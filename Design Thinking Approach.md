@@ -180,6 +180,7 @@ WRITTEN BY PATRICIA ANN AND AREEBA
    
    Issue Status: Open
    
+  ![image](https://user-images.githubusercontent.com/62224104/82169031-91e6e000-9903-11ea-8807-90c28139c712.png)
   
   How Might We Statements:
 1.How might we find a way to book with customers?
