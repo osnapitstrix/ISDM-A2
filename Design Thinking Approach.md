@@ -205,7 +205,8 @@ WRITTEN BY PATRICIA ANN AND AREEBA
 Using the empathy maps we have as a team been able to evaluate the customer and their relationship with the RM which allowed us to attain different perceptions of the customer and the RM. 
 It allowed us to understand how the customer may feel and their needs and wants in regard to this experience. We came to the conclusion that the customer going into this experience does not
 have any knowledge and is merely a curious client wantng to be given all the knowledge possible in regards to travel packages. The customer will continue to extract more information to increase 
-their understanding and knowledge about the travel packages and what will work best for them. In regards to the prototype, we as a team will decide which possible prototpye design we feel will 
+their understanding and knowledge about the travel packages and what will work best for them. We have also indentified the three key stakeholders within this company as being the Realtionship Manager (RM), the customer and the Manager of the RM's/Company.
+In regards to the prototype, we as a team will decide which possible prototpye design we feel will 
 suceed and provide us as the most breakthrough solution. Through some further brainstorming we concluded that some solutions we could implement are collaborating with other airlines and developing 
 sale and inventory system application. 
   
