@@ -5,13 +5,47 @@
 ###### Areeba Khan ID: 13268608
 ###### Ishita Verghese ID:13209921
 
-## 1.1 Project Definition
+## Table of Contents
+1. Problem Definition and Project Objectives
+
+2. Stakeholders
+
+3. Approach from a Design Thinking Perspective
+
+   3.1 Reflections
+
+   3.2 Assumptions
+
+4. Agile Methodology: Scrum
+
+   4.1.1 Stakeholder 1: Customer Product Backlog
+
+   4.1.2 Stakeholder 2: Relationship Manager Product Backlog
+
+   4.1.3 Stakeholder 3: Travel Company Owner Product Backlog
+
+5. System Analysis Assumptions
+
+6. Work-Products and Models
+
+    6.1 Prototype of the Proposed System
+    
+    6.2 Use Case Diagram
+    
+    6.3 Activity Diagram
+    
+    6.4 Class Diagram
+    
+    6.5 Collaborative Diagram
+
+7. Competitive Advantages and Adverse Effects to Business if Project Fails
+
+
+## 1. Project Definition and Project Objectives
 
 The project involves developing an information system to improve the operations of a major travel company's Call Management Centre (CMC). At current state there, the lack of an information system means that a lot of the functions are done manually and at an ad-hoc pace effecting the call flow rate. 
 
 This proposal will uncover how an improved call routing and dynamic call flow system can better used to achieve CMC's business goals by streamlining business processes to increase overall efficiency. The report will examine the five phases of design thinking principles to develop and test the system, the illustration of agile methodology and the assumptions required to develop the system prototype. Further to that a critical evaluation will be completed to provide a comparison highlighting competitive advantages that will accompany the implentation of the new information system. 
-
-## 1.2 Project Objectives
 
 The main project objective is to create an information system that meets the following criteria: 
 * improves the operations of the in-house call management centre
@@ -35,23 +69,29 @@ There are three main stakeholders that have been identified.
 
 Each phase of design thinking will be analysed closely to provide a better understanding on how the individual phases assist in reducing and resolving issues related to developing the CMC information system.  
 
-### 1.Empathise 
+### STEP 1.Empathise 
 Allows for the understanding of user’s pain points and potential improvements that will be required to be developed in order to enhance the user experience. A method to approaching this phase requires the need of interacting with users and considering their viewpoint on the issue. From the interviews conducted, an empathy map was created to provide visualization on user’s attitude and behaviours. This will assist the UX team in revealing any in the current user data and support the greater understanding of end users. 
 
-### 2.Define 
+### STEP 2.Define 
 From the data gathered, it will allow for better exploration and understanding into the core problems identified by users. The overall problem definition consists of – “A major travel company would like to develop an information system to improve the operation
 of their in-house call management centre (CMC)”. With these details, the system designers/developers are able to envision the functions, features and other elements of the system, which will assist in solving the defined problem. 
 
-### 3. Ideate
+### STEP 3. Ideate
 ** ADD EMPATHY MAP IN PROPER DIAGRAM
-__3.1  Stakeholder 1: Customer__
 
-__3.2  Stakeholder 2: Relationship Manager__
+__Stakeholder 1: Customer Empathy Diagram__
 
-__3.3  Stakeholder 3: Travel Company Owner__
+__Stakeholder 1: Customer How Might We Statement__
 
+__Stakeholder 2: Relationship Manager Empathy Diagram__
 
-How Might We Statements: 
+__Stakeholder 2: Relationship Manager How Might We Statement__
+
+__Stakeholder 3: Travel Company Owner Empathy Diagram__
+
+__Stakeholder 3: Travel Company Owner How Might We Statement__
+
+How Might We Statements: ** NOTE: NEED TO FILTER FOR DIFFERENT STAKEHOLDERS -> WE ALSO NEED TO ADD MORE
 
 1. How might we find a way to book with customers?
 
@@ -82,6 +122,12 @@ How Might We Statements:
 
 ** NOTE: ADD REFLECTIONS/ASSUMPTIONS FROM TUTORIAL FILE HERE AFTER DESIGN THINKING APPROACH **
 
+## 3.1 Reflections
+
+## 3.2 Assumptions
+
+
+
 ## 4 Agile Methodology: Scrum
 Agile models refers to a group of software development methodologies based on iterative development. The agile methodology that will be useful for the travel company is Scrum. ‘Scrum is an agile process that allows us to focus on delivering the business value in the shortest time.’ (Chandran 2020).  Scrum also involves a self-organising team of product owner, scrum master and development team roles. This team must adapt to changing business and technology needs and ‘accomplish the work without depending on others’. (Chandran 2020)
 
@@ -98,7 +144,7 @@ STEP 1: CREATE A PRIORTISED PRODUCT/PROJECT BACKLOG
 
 This product backlog was made by product owner and contains user stories and point of view statements for each of the identified stakeholders.
 
-__4.1  Stakeholder 1: Customer__
+__4.1.1  Stakeholder 1: Customer Product Backlog__
 
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
@@ -109,7 +155,7 @@ C004 | Customer | I want to ensure I will not miss any promotional package deals
 C005 | Customer | I want to be purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 1
 C006 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | High | 1
 
-__4.2 Stakeholder 2: Relationship Manager__
+__4.1.2 Stakeholder 2: Relationship Manager Product Backlog__
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
 R001| Relationship Manager| I want to be prepared with the various packages available before discussing with customers | so that I can provide answers to customers if there are any queries | High | 1
@@ -120,7 +166,7 @@ R005 | Relationship Manager | I want to reduce the call wait times for customers
 R006| Relationship Manager | I want to maintain positive/professional attitude towards customers | So that customer satisfaction is kept | High | 1
 R007 | Relationship Manager | I want to have more professional developement training| So that I can improve the selling techniques and the system can increase my performance score | Medium | 1
 
-__4.3 Travel Company Owner__
+__4.1.3 Travel Company Owner Product Backlog__
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
 M001 | Travel Company Owner| I want to analyse the customers preferences for packages | So that I can create or arrange more travel packages that satisfy customer needs | High | 1
@@ -195,4 +241,4 @@ __6.3 Activity Diagram__
 __6.4 Class Diagram__
 __6.5 Collaborative Diagram__
 
-## 7.1 Competitive Advantages and Adverse Effects to Business if Project Fails
+## 7 Competitive Advantages and Adverse Effects to Business if Project Fails
