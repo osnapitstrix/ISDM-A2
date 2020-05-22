@@ -24,36 +24,113 @@ The project objective is to create an information system that meets the followin
 
 ## 2 Stakeholders
 
-There are three main stakeholders that have been identified.
+There are three main stakeholders that have been identified. 
 1. Customer  
 2. Relationship Manager
-3. Manager of all the Relationship Managers
+3. Travel Company Owner 
+
+** NOTE: WE NEED TO ADD DESCRIPTIONS WITH THESE IDENTIFICATIONS SAYING WHO THEY ARE**
 
 ## 3 Approach from a Design Thinking Perspective
 
 Each phase of design thinking will be analysed closely to provide a better understanding on how the individual phases assist in reducing and resolving issues related to developing the CMC information system.  
 
-# 1.Empathise 
+### 1.Empathise 
 Allows for the understanding of user’s pain points and potential improvements that will be required to be developed in order to enhance the user experience. A method to approaching this phase requires the need of interacting with users and considering their viewpoint on the issue. From the interviews conducted, an empathy map was created to provide visualization on user’s attitude and behaviours. This will assist the UX team in revealing any in the current user data and support the greater understanding of end users. 
 
-# 2.Define 
+### 2.Define 
 From the data gathered, it will allow for better exploration and understanding into the core problems identified by users. The overall problem definition consists of – “A major travel company would like to develop an information system to improve the operation
 of their in-house call management centre (CMC)”. With these details, the system designers/developers are able to envision the functions, features and other elements of the system, which will assist in solving the defined problem. 
 
-# 3. Ideate
+### 3. Ideate
+** ADD EMPATHY MAP IN PROPER DIAGRAM
+__3.1  Stakeholder 1: Customer__
+
+__3.2  Stakeholder 2: Relationship Manager__
+
+__3.3  Stakeholder 3: Travel Company Owner__
 
 
+How Might We Statements: 
+
+1. How might we find a way to book with customers?
+
+2. How might we improve the operation of the the CMC?
+
+3. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
+
+4. How might we improve the packages available to customers?
+
+5. How might we improve the way the relationship managers are matched with the customers further?
+
+6. How might we improve the customers' likelihood score to purchase a product/package?
+
+7. How might we improve the operation during busy times?
+
+8. How might we improve the way we approach the customers?
+
+9. How might we improve the operation during times of low levels of customers?
+
+10. How might we ensure that we're able to fulfil all customers orders?
+
+How might we improve the overall customer experience?
+
+### 4. Prototype
+
+### 5. Testing
 
 
-=> this is where we add the Week 7 and 8 tutorial outputs
+** NOTE: ADD REFLECTIONS/ASSUMPTIONS FROM TUTORIAL FILE HERE AFTER DESIGN THINKING APPROACH **
 
-## 4 Agile Methodology
-Prioritised Backlog
-Sprint Backlog
 
-Scrum Meetings
-Scrum Roles
+## 4 Agile Methodology: Scrum
+Agile models refers to a group of software development methodologies based on iterative development. The agile methodology that will be useful for the travel company is Scrum. ‘Scrum is an agile process that allows us to focus on delivering the business value in the shortest time.’ (Chandran 2020).  Scrum also involves a self-organising team of product owner, scrum master and development team roles. This team must adapt to changing business and technology needs and ‘accomplish the work without depending on others’. (Chandran 2020)
 
+Through thorough consideration, each group member was assigned one of the three main roles for Scrum: 
+1. Product Owner - Areeba
+2. Scrum Master - Amna
+3. Development Team - Patricia Ann and Ishita
+
+The first phase of the scrum methodology is creation of the prioritised product backlog as shown in the tables below. This product backlog was made by product owner and contains user stories and point of view statements for each of the identified stakeholders.
+
+__4.1  Stakeholder 1: Customer__
+
+Use Case ID|User | Need | Insight | Priority | Estimation |
+--------|----- | ----| --------| ---------| ---------  |
+C001 | Customer | I want to book a holiday| So that I travel abroad to my desired destination | High | 1 |
+C002 | Customer | I want to talk to a knowledgeable Relationship Manager | So that my queries are answered  | High | 1
+C003 | Customer | I want to quickly contact a Relationship Manager | So that I can know a range of holiday options available| High | 1
+C004 | Customer | I want to ensure I will not miss any promotional package deals and purchase the most cost effective package | So that I can get the best package at a lower price | High | 1
+C005 | Customer | I want to be purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 1
+C006 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | High | 1
+
+__4.2 Stakeholder 2: Relationship Manager__
+Use Case ID|User | Need | Insight | Priority | Estimation |
+--------|----- | ----| --------| ---------| ---------  |
+R001| Relationship Manager| I want to be prepared with the various packages available before discussing with customers | so that I can provide answers to customers if there are any queries | High | 1
+R002 | Relationship Manager |I want to provide correct and detailed information to the customer | So that I can sell a package | High | 1 |
+R003 | Relationship Manager | I want to sell many packages as possible and serve customers effectively and efficiently | So that my performance in the skill matrix gets adjusted  | High | 1
+R004 | Relationship Manager | I want to target potential buyers with outbound call with the automatically dialing system | So that the the pool of customers gets expanded| High | 1
+R005 | Relationship Manager | I want to reduce the call wait times for customers | So that the customers do not provide negative feedback | High | 1
+R006| Relationship Manager | I want to maintain positive/professional attitude towards customers | So that customer satisfaction is kept | High | 1
+R007 | Relationship Manager | I want to have more professional developement training| So that I can improve the selling techniques and the system can increase my performance score | Medium | 1
+
+__4.3 Travel Company Owner__
+Use Case ID|User | Need | Insight | Priority | Estimation |
+--------|----- | ----| --------| ---------| ---------  |
+M001 | Travel Company Owner| I want to analyse the customers preferences for packages | So that I can create or arrange more travel packages that satisfy customer needs | High | 1
+M002| Travel Company Owner| I want to hire and train relationship managers | So that they can provide the best customer service and can attend to the customer needs | High | 1
+M003 | Travel Company Owner |I want to ensure that the relationship manager know how to handle different situations | So that the customer's experience is smooth and improve their skill score | High | 1 |
+M004 | Travel Company Owner| I want to ensure the relationship managers are achieving the desired number of sold packages and take corrective action if required| So that the business can meet their goals and it allows for more profit| High | 1
+M005 | Travel Company Owner| I want to constantly improve the call handling of the CMC system | So that the business can gain competitive advantage and customers stay loyal to the company| High | 1
+M006 | Travel Company Owner| I want to reward the relationship managers with high performance | So that the relationship managers are motivated and strive to do their best with the customers | Medium | 1
+M007 | Travel Company Owner| I want to regularly communicate with all relationship managers through the data analytics reports | So that the business can improve and maximise efficiency of business process | Medium | 1
+
+** STEP 2:  ADD SPRINT PLANNING AND SPRINT BACKLOG
+
+** STEP 3:  DAILY SCRUM MEETINGS
+
+** STEP 4: SPRINT REVIEW
 
 ## 5 System Analysis Assumptions
 ## 6 Proposed Workproducts and Models
