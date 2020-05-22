@@ -9,6 +9,9 @@
 
 #### ACTIVITY DIAGRAM
 
+![Activity Diagram 1](https://user-images.githubusercontent.com/62224104/82670821-314c0000-9c81-11ea-81fd-3de68dddf287.JPG)
+
+
 #### CLASS DIAGRAM
 
 #### COLLABORATIVE DIAGRAM
