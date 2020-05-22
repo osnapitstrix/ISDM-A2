@@ -13,7 +13,7 @@ This proposal will uncover how an improved call routing and dynamic call flow sy
 
 ## 1.2 Project Objectives
 
-The project objective is to create an information system that meets the following criteria: 
+The main project objective is to create an information system that meets the following criteria: 
 * improves the operations of the in-house call management centre
 * has the capability to adjust the call flow rate to suitable relationship managers (RM)
 * improves call routing and dynamic flow for both inbound and outbound calls
@@ -73,7 +73,7 @@ How Might We Statements:
 
 10. How might we ensure that we're able to fulfil all customers orders?
 
-How might we improve the overall customer experience?
+11. How might we improve the overall customer experience?
 
 ### 4. Prototype
 
@@ -81,7 +81,6 @@ How might we improve the overall customer experience?
 
 
 ** NOTE: ADD REFLECTIONS/ASSUMPTIONS FROM TUTORIAL FILE HERE AFTER DESIGN THINKING APPROACH **
-
 
 ## 4 Agile Methodology: Scrum
 Agile models refers to a group of software development methodologies based on iterative development. The agile methodology that will be useful for the travel company is Scrum. ‘Scrum is an agile process that allows us to focus on delivering the business value in the shortest time.’ (Chandran 2020).  Scrum also involves a self-organising team of product owner, scrum master and development team roles. This team must adapt to changing business and technology needs and ‘accomplish the work without depending on others’. (Chandran 2020)
@@ -91,7 +90,13 @@ Through thorough consideration, each group member was assigned one of the three 
 2. Scrum Master - Amna
 3. Development Team - Patricia Ann and Ishita
 
-The first phase of the scrum methodology is creation of the prioritised product backlog as shown in the tables below. This product backlog was made by product owner and contains user stories and point of view statements for each of the identified stakeholders.
+After the team roles were assigned, the team followed the sequence of steps for the scrum methodology in the image below.
+
+![Scrum Methodology Followed](https://user-images.githubusercontent.com/49214046/82641970-81f73500-9c50-11ea-811b-05b12c700198.png)
+
+STEP 1: CREATE A PRIORTISED PRODUCT/PROJECT BACKLOG
+
+This product backlog was made by product owner and contains user stories and point of view statements for each of the identified stakeholders.
 
 __4.1  Stakeholder 1: Customer__
 
@@ -126,13 +131,68 @@ M005 | Travel Company Owner| I want to constantly improve the call handling of t
 M006 | Travel Company Owner| I want to reward the relationship managers with high performance | So that the relationship managers are motivated and strive to do their best with the customers | Medium | 1
 M007 | Travel Company Owner| I want to regularly communicate with all relationship managers through the data analytics reports | So that the business can improve and maximise efficiency of business process | Medium | 1
 
-** STEP 2:  ADD SPRINT PLANNING AND SPRINT BACKLOG
+** STEP 2:  SPRINT PLANNING AND CREATING A SPRINT BACKLOG
+Sprint Planning involves defining the requirements for each sprint and decide forecasts based on the product/project backlog. This sprint meetings are run by the Scrum Master. The product owner describes objectives or goals required to be met for a particular sprint and what backlog items contribute to the specific goal. The scrum master and development team decide what can be done/ what will happen in the sprint. The development team also clarifies misunderstandings and plan how they can or cannot deliver specific goals.
+
+__SPRINT 1__
+* Goal of the Sprint: (1-2 Sentences)
+* Product Backlog Items that contribute to the goal:
+* Team Capacity:
+* Estimated Timeframes:
+* What is done in the sprint?
+
+SPRINT 1 Description: 
+
+
+
+__SPRINT 2__
+* Goal of the Sprint: (1-2 Sentences)
+* Product Backlog Items that contribute to the goal:
+* Team Capacity:
+* Estimated Timeframes:
+* What is done in the sprint?
+
+SPRINT 2 Description: 
+
+
+__SPRINT 3__
+* Goal of the Sprint: (1-2 Sentences)
+* Product Backlog Items that contribute to the goal:
+* Team Capacity:
+* Estimated Timeframes:
+* What is done in the sprint?
+
+SPRINT 3 Description: 
+
+
+__SPRINT 4__
+* Goal of the Sprint: (1-2 Sentences)
+* Product Backlog Items that contribute to the goal:
+* Team Capacity:
+* Estimated Timeframes:
+* What is done in the sprint?
+
+SPRINT 4 Description: 
+
 
 ** STEP 3:  DAILY SCRUM MEETINGS
+Each day the team met and discussed the progress of the project with management, these discussions included the use of company resources and the prioritisation of certain features within the system/app. Any blockers or issues of any kind are discussed openly within the team and management to derive a solution; each meeting was time-boxed to 15 minutes.
 
-** STEP 4: SPRINT REVIEW
+** STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE
+Retrospective’s main aim is to discuss the results and determine the ways how to improve the development process on the next step. The team should conclude what went well during the working process and what can be done better during future iteration. When the ways of improvement are defined, the team can concentrate on the next sprint planning.
 
-## 5 System Analysis Assumptions
+
+## 5.1  System Analysis Assumptions
+## 5.2 Evaluation on which methodology is suitable for the project
+
 ## 6 Proposed Workproducts and Models
-## 7.1 Competitive Advantages 
-## 7.2 Adverse Effects to Business if Project Fails
+
+** NOTE WE NEED TO ADD DESCRIPTIONS WITH THESE DIAGRAMS
+
+__6.1 Prototype of the Proposed System__
+__6.2 Use Case Diagram__
+__6.3 Activity Diagram__
+__6.4 Class Diagram__
+__6.5 Collaborative Diagram__
+
+## 7.1 Competitive Advantages and Adverse Effects to Business if Project Fails
