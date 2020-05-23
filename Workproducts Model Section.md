@@ -13,7 +13,8 @@
 
 
 #### CLASS DIAGRAM
-
-![Class Diagram](https://user-images.githubusercontent.com/49214046/82740956-e15c5e80-9d90-11ea-8ca4-b628c883bb67.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49214046/82741578-0bb11a80-9d97-11ea-8439-0770a7d09134.jpg" width="750" height="500"  />
+ </p>
 
 #### COLLABORATIVE DIAGRAM
