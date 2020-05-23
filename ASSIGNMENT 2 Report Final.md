@@ -222,24 +222,20 @@ __6.4 Class Diagram__
 <img src="https://user-images.githubusercontent.com/49214046/82742268-5040b400-9d9f-11ea-9640-454210e5a0e0.jpg" width="750" height="500"  />
  </p>
  
-Class diagrams provide general overview of the schematics of an application. This class diagram features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the aggregation and composition relationships in the project with the associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
+Unified Modified Language Class diagrams provide general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
  
  The following lists summarises what is in the diagram: 
  1. Travel Company Owner hires 1 or more Relationship Manager/Relationship Managers
  2. Travel Company Owner arranges 1 or more Travel Package/Packages
  3. Relationship Manager sells 1 or more Travel Package/Packages
  4. Customer purchases 1 or more Travel Package/Packages
- 5. Relationship Manager completes questionnaire
- 6. Relationship Manager uses TargetList
- 7.Target List is composed of  1 or more Customer and  1 or more Travel Package 
- 8. Customer and Relationship Manager make and receive calls
- 9. Customer and Relationship Manager are matched with each other
+ 5. Relationship Manager completes Questionnaire (used to create skill matrix)
+ 6. Relationship Manager uses TargetList (Outbound Call)
+ 7. Target List is composed of  1 or more Customer/Customers and  1 or more Travel Package/Packages 
+ 8. Customer and Relationship Manager make and receive calls (caters for Inbound/Outbound calls)
+ 9. Customer and Relationship Manager are matched with each other (regardless if Inbound or Outbound Call)
  10. Relationship Manager makes 0 and more Sale Item/Items
  11. Sale Item is composed of 1 or more Travel Package/Packages
-
- 
-
-
 
 __6.5 Collaborative Diagram__
 
