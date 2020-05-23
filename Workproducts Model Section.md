@@ -14,7 +14,7 @@
 
 #### CLASS DIAGRAM
 <p align="center">
-<img src="https://user-images.githubusercontent.com/49214046/82741578-0bb11a80-9d97-11ea-8439-0770a7d09134.jpg" width="750" height="500"  />
+<img src="https://user-images.githubusercontent.com/49214046/82742268-5040b400-9d9f-11ea-9640-454210e5a0e0.jpg" width="750" height="500"  />
  </p>
 
 #### COLLABORATIVE DIAGRAM
