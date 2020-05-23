@@ -1,44 +1,34 @@
 # 31257 Information Systems Development Methodologies
-## Assignment 2: Project 
-###### By Amna Abbasi ID:
-###### Patricia Ann Acosta ID: 13205669
-###### Areeba Khan ID: 13268608
-###### Ishita Verghese ID:13209921
+## Assignment 2: Group Project
+##### Date: 1 June 2020
+
+Student Name|Student ID |
+------------|---------- |
+Amna Abbasi | |
+Patricia Ann Acosta | 13205669|
+Areeba Khan | 13268608 |
+Ishita Verghese|13209921 |
 
 ## Table of Contents
-1. Problem Definition and Project Objectives
-
-2. Stakeholders
-
-3. Approach from a Design Thinking Perspective
-
-   3.1 Reflections
-
-   3.2 Assumptions
-
-4. Agile Methodology: Scrum
-
-   4.1.1 Stakeholder 1: Customer Product Backlog
-
-   4.1.2 Stakeholder 2: Relationship Manager Product Backlog
-
-   4.1.3 Stakeholder 3: Travel Company Owner Product Backlog
-
-5. System Analysis Assumptions
-
-6. Work-Products and Models
-
-    6.1 Prototype of the Proposed System
-    
-    6.2 Use Case Diagram
-    
-    6.3 Activity Diagram
-    
-    6.4 Class Diagram
-    
-    6.5 Collaborative Diagram
-
-7. Competitive Advantages and Adverse Effects to Business if Project Fails
+Section|Description |
+--------|----- |
+1 |Problem Definition and Project Objectives |
+2 |Stakeholders |
+3 |Approach from a Design Thinking Perspective |
+3.1 |Reflections|
+3.2 |Assumptions|
+4| Agile Methodology: Scrum|
+4.1.1 | Stakeholder 1: Customer Product Backlog |
+4.1.2|  Stakeholder 2: Relationship Manager Product Backlog |
+4.1.3 | Stakeholder 3: Travel Company Owner Product Backlog |
+5 |System Analysis Assumptions |
+6 |Work-Products and Models|
+6.1 |Prototype of the Proposed System| 
+6.2| Use Case Diagram |
+6.3 | Activity Diagram |
+6.4 |Class Diagram |
+6.5 | Collaborative Diagram |
+7 |Competitive Advantages and Adverse Effects to Business if Project Fails |
 
 
 ## SECTION 1. Project Definition and Project Objectives
@@ -140,7 +130,9 @@ Through thorough consideration, each group member was assigned one of the three 
 
 After the team roles were assigned, the team followed the sequence of steps for the scrum methodology in the image below.
 
-![Scrum Methodology Followed](https://user-images.githubusercontent.com/49214046/82641970-81f73500-9c50-11ea-811b-05b12c700198.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49214046/82641970-81f73500-9c50-11ea-811b-05b12c700198.png" width="800" height="400"  />
+ </p>
 
 STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG
 
@@ -179,7 +171,7 @@ M005 | Travel Company Owner| I want to constantly improve the call handling of t
 M006 | Travel Company Owner| I want to reward the relationship managers with high performance | So that the relationship managers are motivated and strive to do their best with the customers | Medium | 1
 M007 | Travel Company Owner| I want to regularly communicate with all relationship managers through the data analytics reports | So that the business can improve and maximise efficiency of business process | Medium | 1
 
-** STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG
+STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG
 
 Sprint Planning involves defining the requirements for each sprint and decide forecasts based on the product backlog. This sprint meetings are run by the Scrum Master and ensure that all team members agree with the objectives and goals provided by the product owner are achieved. The team also filtered which items in the product backlog were more important and the sequence to complete all tasks. The development team also clarifies misunderstandings and plan how they can or cannot deliver specific goals.
 
@@ -194,7 +186,7 @@ __SPRINT 1 BACKLOG:__
 * Product Backlog Items that contribute to the goal: M001, M002, M003, M004, M005, R001, R002, R003, R004, R005, R006
 * Estimated Timeframes: Run for 30 days and have a maximum of 1 day to complete the planning
 
-__SPRINT 2 BACKLOG: __
+__SPRINT 2 BACKLOG:__
 * Goals of the Sprint: 
 1. To focus on customers and ensuring they are satisfied with their experience
 2. To make sure relationship managers are adaptable to any situation and provide all information required to the customers
@@ -225,6 +217,27 @@ __6.2 Use Case Diagram__
 __6.3 Activity Diagram__
 
 __6.4 Class Diagram__
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49214046/82741578-0bb11a80-9d97-11ea-8439-0770a7d09134.jpg" width="750" height="500"  />
+ </p>
+ 
+ __Summary of Class Diagram:__
+ 1. Travel Company Owner hires Relationship Manager
+ 2. Travel Company Owner arranges Travel Package
+ 3. Relationship Manager sells Travel Package
+ 4. Customer purchases Travel Package
+ 5. Relationship Manager completes questionnaire
+ 6. Relationship Manager uses TargetList
+ 7.Target List is composed of Customer and Travel Package 
+ 8. Customer and Relationship Manager make and receive calls
+ 9. Customer and Relationship Manager are matched with each other
+ 10. Relationship Manager makes Sale Item
+ 11. Sale Item is composed of Travel Package
+
+ 
+
+
 
 __6.5 Collaborative Diagram__
 
