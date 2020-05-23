@@ -218,12 +218,12 @@ __6.3 Activity Diagram__
 
 __6.4 Class Diagram__
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/49214046/82742268-5040b400-9d9f-11ea-9640-454210e5a0e0.jpg" width="750" height="500"  />
- </p>
- 
 Unified Modified Language Class diagrams provide general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
- 
+
+<img align="center">
+<img src="https://user-images.githubusercontent.com/49214046/82742268-5040b400-9d9f-11ea-9640-454210e5a0e0.jpg" width="900" height="750"  />
+ </p>
+  
  The following lists summarises what is in the diagram: 
  1. Travel Company Owner hires 1 or more Relationship Manager/Relationship Managers
  2. Travel Company Owner arranges 1 or more Travel Package/Packages
