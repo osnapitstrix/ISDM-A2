@@ -14,4 +14,6 @@
 
 #### CLASS DIAGRAM
 
+![Class Diagram](https://user-images.githubusercontent.com/49214046/82740956-e15c5e80-9d90-11ea-8ca4-b628c883bb67.jpg)
+
 #### COLLABORATIVE DIAGRAM
