@@ -218,6 +218,10 @@ __6.2 Use Case Diagram__
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
 
+![Use Case Diagram](https://user-images.githubusercontent.com/62224150/82743752-f5b15300-9db2-11ea-9168-c2e66397fedc.jpeg)
+
+
+
 __6.3 Activity Diagram__
 
 __6.4 Class Diagram__
