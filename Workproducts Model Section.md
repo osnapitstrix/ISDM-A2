@@ -10,7 +10,7 @@
 
 #### ACTIVITY DIAGRAM
 
-![Activity Diagram 1](https://user-images.githubusercontent.com/62224104/82670821-314c0000-9c81-11ea-81fd-3de68dddf287.JPG)
+![Activity diagram](https://user-images.githubusercontent.com/62224104/82753369-5159fb80-9e08-11ea-8cee-ffb68fb2871c.jpeg)
 
 
 #### CLASS DIAGRAM
