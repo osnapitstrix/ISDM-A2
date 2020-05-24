@@ -49,9 +49,11 @@ The main project objective is to create an information system that meets the fol
 ## SECTION 2: Stakeholders
 
 There are three main stakeholders that have been identified. 
-1. Customer  
-2. Relationship Manager
-3. Travel Company Owner 
+1. Customer: We have identified customers as a stakeholder as they are one of the most important stakeholder of any business, without them the business does not run as our main purpose is to serve our clients to the best of our ability. They become stakeholders of the company as they are interested in the service we provide and are directly impacted by the quality and value of our service. 
+
+2. Relationship Manager: We have identified Relationship Manager (RM) as a stakeholder as they are one of the main employees within this company. They are the ones directly providing the service to the customers through communication. They have a direct stake within the company as their interest lies in providing the best service to the customers, and through earning an income to support themselves through the company, therefore they have a effect on the effort put into the service as well as being affected by the company. 
+
+3. Travel Company Owner: We have identified the Travel Company Owner as a stakeholder as they are the most important stakeholder as they control the business. They are in charge of and control all the management, finances and strategy in regards to the company making them liable for the impacts of the company. Their interest as stakeholders lies in the significant decisions they make within the company regarding both internal and external stakeholders, making their role as owner and stakeholder one of extreme importance. 
 
 ** NOTE: WE NEED TO ADD DESCRIPTIONS WITH THESE IDENTIFICATIONS SAYING WHO THEY ARE**
 
@@ -213,6 +215,8 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 __6.1 Prototype of the Proposed System__
 
 __6.2 Use Case Diagram__
+
+A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
 
 __6.3 Activity Diagram__
 
