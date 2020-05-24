@@ -4,7 +4,7 @@
 
 Student Name|Student ID |
 ------------|---------- |
-Amna Abbasi | |
+Amna Abbasi | | 13227297 |
 Patricia Ann Acosta | 13205669|
 Areeba Khan | 13268608 |
 Ishita Verghese|13209921 |
