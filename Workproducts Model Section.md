@@ -1,10 +1,9 @@
 ### WORKPRODUCTS MODEL SECTION
 
 #### USE CASE DIAGRAM
-<p align="center">
+
  ![Use Case Diagram](https://user-images.githubusercontent.com/62224150/82743752-f5b15300-9db2-11ea-9168-c2e66397fedc.jpeg)
-height="500"  />
- </p>
+
 
 
 
