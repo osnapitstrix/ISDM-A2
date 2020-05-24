@@ -55,8 +55,6 @@ There are three main stakeholders that have been identified.
 
 3. Travel Company Owner: We have identified the Travel Company Owner as a stakeholder as they are the most important stakeholder as they control the business. They are in charge of and control all the management, finances and strategy in regards to the company making them liable for the impacts of the company. Their interest as stakeholders lies in the significant decisions they make within the company regarding both internal and external stakeholders, making their role as owner and stakeholder one of extreme importance. 
 
-** NOTE: WE NEED TO ADD DESCRIPTIONS WITH THESE IDENTIFICATIONS SAYING WHO THEY ARE**
-
 ## SECTION 3: Approach from a Design Thinking Perspective
 
 Each phase of design thinking will be analysed closely to provide a better understanding on how the individual phases assist in reducing and resolving issues related to developing the CMC information system.  
@@ -113,8 +111,6 @@ How Might We Statements:
 
 ### STEP 5. Testing
 
-
-** NOTE: ADD REFLECTIONS/ASSUMPTIONS FROM TUTORIAL FILE HERE AFTER DESIGN THINKING APPROACH **
 
 ## 3.1 Reflections
 
