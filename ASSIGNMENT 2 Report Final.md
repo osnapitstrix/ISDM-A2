@@ -118,9 +118,16 @@ How Might We Statements:
 
 ## 3.1 Reflections
 
+Using the empathy maps we have as a team been able to evaluate the customer and their relationship with the RM which allowed us to attain different perceptions of the customer and the RM. It allowed us to understand how the customer may feel and their needs and wants in regard to this experience. We came to the conclusion that the customer going into this experience does not have any knowledge and is merely a curious client wantng to be given all the knowledge possible in regards to travel packages. The customer will continue to extract more information to increase their understanding and knowledge about the travel packages and what will work best for them. We have also indentified the three key stakeholders within this company as being the Realtionship Manager (RM), the customer and the Manager of the RM's/Company as we believe these are the main roles involved and that hold sufficient interest within the company. In regards to the prototype, we as a team will decide which possible prototpye design we feel will suceed and provide us as the most breakthrough solution. Through some further brainstorming we concluded that some solutions we could implement are collaborating with other airlines and developing sale and inventory system application.
+
 ## 3.2 Assumptions
 
+While creating the 'how might we' statements the assumptions gathered are:
 
+- Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
+- The technique which matches RM with customers requires improvement
+- Customers experience long waiting times
+- The technology for the system is available
 
 ## SECTION 4. Agile Methodology: Scrum
 Agile models refers to a group of software development methodologies based on iterative development. The agile methodology that will be useful for the travel company is Scrum. ‘Scrum is an agile process that allows us to focus on delivering the business value in the shortest time.’ (Chandran 2020).  Scrum also involves a self-organising team of product owner, scrum master and development team roles. This team must adapt to changing business and technology needs and ‘accomplish the work without depending on others’. (Chandran 2020)
