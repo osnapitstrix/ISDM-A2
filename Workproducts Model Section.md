@@ -12,6 +12,8 @@
 
 ![Activity diagram](https://user-images.githubusercontent.com/62224104/82753369-5159fb80-9e08-11ea-8cee-ffb68fb2871c.jpeg)
 
+<break>
+ </break>
 
 #### CLASS DIAGRAM
 <p align="center">
