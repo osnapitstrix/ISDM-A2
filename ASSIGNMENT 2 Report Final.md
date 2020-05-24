@@ -224,6 +224,14 @@ A Unified Modified Language Use Case Diagram is the main form of requirements mo
 ![Use Case Diagram](https://user-images.githubusercontent.com/62224150/82743752-f5b15300-9db2-11ea-9168-c2e66397fedc.jpeg)
 
 
+The following list summarises what is in the diagram:
+- The customers wants to book a holiday in order to travel abroad to their desired destination. In order to do that they wish to speak to a knowledagble RM whom can answer all their queries and concerns. Through their interest and the RM's instructions they then create a profile. This profile is created through the questionnaire in which they answer a few questions about themself. This profile can now be viewed by the customer, RM and the Travel Company Manager. 
+- Communication between the customer and RM is conducted through inbound and outbound calls which are either made or received by either one of them
+- The customer also wishes to be aware of any promotional packages which the RM and Travel Company owner arrange. This is enabled by the RM utilising the target list to ensure the customer receives the promotional package details every time. 
+- The RM is in direct contact with the customer and provides them with correct and detailled information in order to sell as many packages as possible and earn a high skill matrix scrore through their quality customer service and positive and professional attitude they provide to each individual customer
+- The RM depends on the customer to pay them when they book a trip or when they make their official payment for the trip
+- The RM is in charge of arranging promotional packages through arranging travel packges with the help of the Travel Company Owner
+- The Travel Company Owner hires an employee they deem fit for the role of RM and trains them in order to improve their selling techniques and ensure they provide the best customer service to all customers.  
 
 __6.3 Activity Diagram__
 
