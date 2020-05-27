@@ -9,22 +9,20 @@ Patricia Ann Acosta | 13205669|
 Areeba Khan | 13268608 |
 Ishita Verghese|13209921 |
 
-## Table of Contents
-* [Project Definition and Objectives](#Section-1-Project-Definition-and-Objectives)
-* [Stakeholders](#stakeholders)
-* [Approach from a Design Thinking Perspective](#Section-3-Approach-from-a-design-thinking-perspective)
-   * [Reflection](#reflection)
-   * [Assumptions](#assumptions)
-* [Agile Methodology: Scrum](#Agile-Methodology-Scrum)
-* [System Analysis Assumptions](#System-Analysis-Assumptions)
-* [Workproducts and Models](#Workproducts-and-models)
-   * [Use Case Diagram](#use-case-diagram)
-   * [Activity Diagram](#activity-diagram)
-   * [Class Diagram](#class-diagram)
-   * [Collaborative Diagram](#collaborative-diagram)
-* [Competitive Advantages and Possible Effects if the Project Fails](#competitive-advantages-and-possible-effects-if-the-project-fails)
-   * [Advantages](#advantages)
-   * [Possible Effects](#possible-effects)
+- [SECTION 1. Project Definition and Project Objectives](#section-1-project-definition-and-project-objectives)
+- [SECTION 2: Stakeholders](#section-2--stakeholders)
+- [SECTION 3: Approach from a Design Thinking Perspective](#section-3--approach-from-a-design-thinking-perspective)
+  * [STEP 1.Empathise](#step-1empathise)
+  * [STEP 2.Define](#step-2define)
+  * [STEP 3. Ideate](#step-3-ideate)
+  * [STEP 4. Prototype](#step-4-prototype)
+  * [STEP 5. Testing](#step-5-testing)
+- [3.1 Reflections](#31-reflections)
+- [3.2 Assumptions](#32-assumptions)
+- [SECTION 4. Agile Methodology: Scrum](#section-4-agile-methodology--scrum)
+- [SECTION 5: System Analysis Assumptions and Evaluations on Methodology that is suitable for Project](#section-5--system-analysis-assumptions-and-evaluations-on-methodology-that-is-suitable-for-project)
+- [SECTION 6: Proposed Workproducts and Models](#section-6--proposed-workproducts-and-models)
+- [SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails](#section-7--competitive-advantages-and-adverse-effects-to-business-if-project-fails)
 
 ## SECTION 1. Project Definition and Project Objectives
 
