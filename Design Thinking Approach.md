@@ -5,10 +5,6 @@
 * Meaningful commits from every student each week. Interleaving of commits is expected.
 * Commits should identify when this part of the report was added to or modified in the markdown file.
 
-COMMENT BY PATRICIA ANN
-###### NOTE WHEN MARKING: This file was originally written as Design Thinking Approach without the md. I changed the format to use the markdown language like the assignment so it is not showing that the other group members Amna and Areeba have contributed. However, if you click COMMITS for the repository, you will see that COMMITS for May 11 2020 include the commits they have done in the tutorial class.
-COMMENT BY PATRICIA ANN
-
 ##### Point of View Statement: (contains user, need and insight and contains how might we statement)
 
 => Prioritised Product Backlog categorised by Stakeholders 
