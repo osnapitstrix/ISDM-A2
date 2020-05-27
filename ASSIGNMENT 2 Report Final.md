@@ -10,26 +10,21 @@ Areeba Khan | 13268608 |
 Ishita Verghese|13209921 |
 
 ## Table of Contents
-Section|Description |
---------|----- |
-1 |Problem Definition and Project Objectives |
-2 |Stakeholders |
-3 |Approach from a Design Thinking Perspective |
-3.1 |Reflections|
-3.2 |Assumptions|
-4| Agile Methodology: Scrum|
-4.1.1 | Stakeholder 1: Customer Product Backlog |
-4.1.2|  Stakeholder 2: Relationship Manager Product Backlog |
-4.1.3 | Stakeholder 3: Travel Company Owner Product Backlog |
-5 |System Analysis Assumptions |
-6 |Work-Products and Models|
-6.1 |Prototype of the Proposed System| 
-6.2| Use Case Diagram |
-6.3 | Activity Diagram |
-6.4 |Class Diagram |
-6.5 | Collaborative Diagram |
-7 |Competitive Advantages and Adverse Effects to Business if Project Fails |
-
+* [Project Definition and Objectives](#Section-1-Project-Definition-and-Objectives)
+* [Stakeholders](#stakeholders)
+* [Approach from a Design Thinking Perspective](#Section-3-Approach-from-a-design-thinking-perspective)
+   * [Reflection](#reflection)
+   * [Assumptions](#assumptions)
+* [Agile Methodology: Scrum](#Agile-Methodology-Scrum)
+* [System Analysis Assumptions](#System-Analysis-Assumptions)
+* [Workproducts and Models](#Workproducts-and-models)
+   * [Use Case Diagram](#use-case-diagram)
+   * [Activity Diagram](#activity-diagram)
+   * [Class Diagram](#class-diagram)
+   * [Collaborative Diagram](#collaborative-diagram)
+* [Competitive Advantages and Possible Effects if the Project Fails](#competitive-advantages-and-possible-effects-if-the-project-fails)
+   * [Advantages](#advantages)
+   * [Possible Effects](#possible-effects)
 
 ## SECTION 1. Project Definition and Project Objectives
 
@@ -80,32 +75,6 @@ __Stakeholder 2: Relationship Manager How Might We Statement__
 __Stakeholder 3: Travel Company Owner Empathy Diagram__
 
 __Stakeholder 3: Travel Company Owner How Might We Statement__
-
-How Might We Statements: 
-
-** NOTE: NEED TO FILTER FOR DIFFERENT STAKEHOLDERS -> WE ALSO NEED TO ADD MORE
-
-1. How might we find a way to book with customers?
-
-2. How might we improve the operation of the the CMC?
-
-3. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
-
-4. How might we improve the packages available to customers?
-
-5. How might we improve the way the relationship managers are matched with the customers further?
-
-6. How might we improve the customers' likelihood score to purchase a product/package?
-
-7. How might we improve the operation during busy times?
-
-8. How might we improve the way we approach the customers?
-
-9. How might we improve the operation during times of low levels of customers?
-
-10. How might we ensure that we're able to fulfil all customers orders?
-
-11. How might we improve the overall customer experience?
 
 ### STEP 4. Prototype
 
@@ -211,15 +180,17 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ## SECTION 5: System Analysis Assumptions and Evaluations on Methodology that is suitable for Project
 
+STILL MISSING!!!
+
 ## SECTION 6: Proposed Workproducts and Models
 
 ** NOTE WE NEED TO ADD DESCRIPTIONS WITH THESE DIAGRAMS
 
-__6.1 Prototype of the Proposed System__
-
-__6.2 Use Case Diagram__
+__6.1 Use Case Diagram__
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
+
+NOTE: WE NEED TO RESIZE THIS IMAGES => TAKE TOO MUCH SPACE
 
 ![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83012214-734cbb80-a05e-11ea-97d9-706c55c9d4e1.jpeg)
 
@@ -236,9 +207,13 @@ The following list summarises what is in the diagram:
 - The RM is in charge of arranging promotional packages through arranging travel packges with the help of the Travel Company Owner
 - The Travel Company Owner hires an employee they deem fit for the role of RM and trains them in order to improve their selling techniques and ensure they provide the best customer service to all customers.  
 
-__6.3 Activity Diagram__
+__6.2 Activity Diagram__
+Inbound:
 
-__6.4 Class Diagram__
+Outbound:
+
+
+__6.3 Class Diagram__
 
 Unified Modified Language Class diagrams provide general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
 
