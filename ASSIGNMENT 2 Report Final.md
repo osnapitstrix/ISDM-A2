@@ -267,3 +267,9 @@ The new information system will also encourage the company to achieve economies 
 <br>
 </br>
 Another advantage the new system would bring to the company, is greater shareholder interest and funding. A successful system would be able to generate increased profits for the company, resulting in support from shareholders, who will receive a greater dividend in return. Recognition from shareholders is vital for the company if it wants research and development to improve the current new system, in the future. By consistently updating the system, the company ensures they remain at the top the industry. However, if the new system breaks, there will be reduced shareholder interest and diminished certainty for the company, to regain the lost interest. Shareholders would be hesitant to reinvest in the company due to fear of loss, significantly impacting the company’s available funds. 
+
+<br>
+</br>
+Bibliography:
+
+Bitner, M.J. 2011, ‘Self- service technologies: what do customers expect?’, American Marketing Association, vol. 10, no.1, p.10.
