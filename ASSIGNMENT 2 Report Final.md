@@ -216,6 +216,12 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ## SECTION 5: System Analysis Assumptions and Evaluations on Methodology that is suitable for Project
 
+## Assumptions:
+
+- The technology for the system is available
+- Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
+- 
+
 ## SECTION 6: Proposed Workproducts and Models
 
 ** NOTE WE NEED TO ADD DESCRIPTIONS WITH THESE DIAGRAMS
