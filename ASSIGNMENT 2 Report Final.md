@@ -74,14 +74,17 @@ The interviewees' perspectives from the empathy map can be used as a guideline f
 ** ADD EMPATHY MAP IN PROPER DIAGRAM
 
 __Stakeholder 1: Customer Empathy Diagram__
+![image](https://user-images.githubusercontent.com/62224079/83110213-11e02780-a106-11ea-9484-20b7b202f3ee.png)
 
 __Stakeholder 1: Customer How Might We Statement__
 
 __Stakeholder 2: Relationship Manager Empathy Diagram__
+![image](https://user-images.githubusercontent.com/62224079/83110481-7d29f980-a106-11ea-9582-12c24dafbaeb.png)
 
 __Stakeholder 2: Relationship Manager How Might We Statement__
 
 __Stakeholder 3: Travel Company Owner Empathy Diagram__
+![image](https://user-images.githubusercontent.com/62224079/83110323-3dfba880-a106-11ea-8e78-463981ffe38b.png)
 
 __Stakeholder 3: Travel Company Owner How Might We Statement__
 
