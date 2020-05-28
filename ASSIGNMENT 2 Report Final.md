@@ -213,6 +213,12 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ## Assumptions:
 
+While creating the 'how might we' statements the assumptions gathered are:
+
+- Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
+- The technique which matches RM with customers requires improvement
+- Customers experience long waiting times
+
 - The technology for the system is available
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
 - The system goals included in the analysis do not conflict with the system goals that are excluded from the analysis
@@ -229,17 +235,31 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
 
 ![Use case diagram FOR TRAVEL COMP](https://user-images.githubusercontent.com/62224150/83089658-37efd280-a0da-11ea-8f7d-78949ae890f8.jpeg)
-![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83089662-3920ff80-a0da-11ea-9c04-9441e55420c7.jpeg)
-![Use case diagram for RM (1)](https://user-images.githubusercontent.com/62224150/83089666-3a522c80-a0da-11ea-8889-ae2c60488033.jpeg)
 
 The following list summarises what is in the diagram:
+- The Travel Company Owner hires an employee they deem fit for the role of RM 
+- The Travel company then trains the RM in order to improve their selling techniques and ensure they provide the best customer service to all customers.  
+- In relation with the RM, the travel company arranges travel packages for promotional advertising 
+- The Travel Company also remains in constant contact with the RM, by communicating with them through the data analytics report
+
+![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83089662-3920ff80-a0da-11ea-9c04-9441e55420c7.jpeg)
+
+The following list summarises what is in the diagram:
+- The customer creates a profile with the help of the RM, through answering a questionnaire
 - The customers wants to book a holiday in order to travel abroad to their desired destination. In order to do that they wish to speak to a knowledagble RM whom can answer all their queries and concerns. Through their interest and the RM's instructions they then create a profile. This profile is created through the questionnaire in which they answer a few questions about themself. This profile can now be viewed by the customer, RM and the Travel Company Manager. 
 - Communication between the customer and RM is conducted through inbound and outbound calls which are either made or received by either one of them
-- The customer also wishes to be aware of any promotional packages which the RM and Travel Company owner arrange. This is enabled by the RM utilising the target list to ensure the customer receives the promotional package details every time. 
+- The customer also wishes to be aware of any promotional packages which the RM and Travel Company owner arrange. This is enabled by the RM utilising the target list to ensure the customer receives the promotional package details every time.
+- the customer depends on the target list to ensure they receive promotional packages
+- The customer pays the RM when booking a trip 
+
+![Use case diagram for RM (1)](https://user-images.githubusercontent.com/62224150/83089666-3a522c80-a0da-11ea-8889-ae2c60488033.jpeg)
+
+The following list summarises what is in the diagram: 
 - The RM is in direct contact with the customer and provides them with correct and detailled information in order to sell as many packages as possible and earn a high skill matrix scrore through their quality customer service and positive and professional attitude they provide to each individual customer
 - The RM depends on the customer to pay them when they book a trip or when they make their official payment for the trip
 - The RM is in charge of arranging promotional packages through arranging travel packges with the help of the Travel Company Owner
-- The Travel Company Owner hires an employee they deem fit for the role of RM and trains them in order to improve their selling techniques and ensure they provide the best customer service to all customers.  
+- The RM conducts a questionnaire which the customer depends on in order to create their profile
+- The RM creates a target list in order to advertise promotional packages 
 
 ### 6.2 Activity Diagram
 
@@ -275,11 +295,8 @@ The following list summarises what is in the diagram:
 3. The Customer Profile Database provides the details for the target customer.
 4. The target list is generated based on customer details.
 5. The system displays the details 
-
 6.1. The system also provides the Relationship Manager with guidelines and a script to help in providing an improved service to the end-customer. 
-
 6.2 The Relationship Manager retrieves the script/guidelines and proceeds to Step 7.
-
 7. The Relationship Manaager calls the target customer and try to sell a travel package.
 
 #### 6.4.2 Inbound Call
