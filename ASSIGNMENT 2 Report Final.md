@@ -77,42 +77,36 @@ __Stakeholder 1: Customer Empathy Diagram__
 ![image](https://user-images.githubusercontent.com/62224079/83110213-11e02780-a106-11ea-9484-20b7b202f3ee.png)
 
 __Stakeholder 1: Customer How Might We Statement__
+1. How might we get the best travel package possible with minimal time/effort? 
+2. How might we be serviced by someone who can meet our needs? 
+3. How might we complete this booking in a timely fashion?
 
 __Stakeholder 2: Relationship Manager Empathy Diagram__
 ![image](https://user-images.githubusercontent.com/62224079/83110481-7d29f980-a106-11ea-9582-12c24dafbaeb.png)
 
 __Stakeholder 2: Relationship Manager How Might We Statement__
+1. How might we improve our own skills to serve customers effectively and efficiently?
+2. How might we improve the customers' likelihood score to purchase a product/package?
+3. How might we upskill in a way that we are tracking to our performance goals? 
+4. How might we improve the operation during busy times?
+5. How might we improve the way we approach the customers?
+6. How might we improve the operation during times of low levels of customers?
+7. How might we ensure that we're able to fulfil all customers orders?
+8. How might we improve the overall customer experience?
 
 __Stakeholder 3: Travel Company Owner Empathy Diagram__
 ![image](https://user-images.githubusercontent.com/62224079/83110323-3dfba880-a106-11ea-8e78-463981ffe38b.png)
 
 __Stakeholder 3: Travel Company Owner How Might We Statement__
-
-How Might We Statements: 
-
-** NOTE: NEED TO FILTER FOR DIFFERENT STAKEHOLDERS -> WE ALSO NEED TO ADD MORE
-
-1. How might we find a way to book with customers?
-
-2. How might we improve the operation of the the CMC?
-
-3. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
-
-4. How might we improve the packages available to customers?
-
-5. How might we improve the way the relationship managers are matched with the customers further?
-
-6. How might we improve the customers' likelihood score to purchase a product/package?
-
-7. How might we improve the operation during busy times?
-
-8. How might we improve the way we approach the customers?
-
-9. How might we improve the operation during times of low levels of customers?
-
-10. How might we ensure that we're able to fulfil all customers orders?
-
-11. How might we improve the overall customer experience?
+1. How might we improve the operation of the the CMC?
+2. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
+3. How might we improve the packages available to customers? 
+4. How might we ensure we have the best packages available in comparison to our competitors? 
+5. How might we improve the way the relationship managers are matched with the customers?
+6. How might we improve the operation during busy times?
+7. How might we improve the operation during times of low levels of customers?
+8. How might we ensure that we're able to fulfil all customers orders?
+9. How might we improve the overall customer experience?
 
 ### STEP 4. Prototype
 The prototyping stage will involve the system developers producing inexpensive, scaled-down versions of the proposed application, capturing all required features. This will be done in an iterative process by continuous check ins with the Travel Company owner and other stakeholders to ensure the system is meeting their needs. The prototype will be tested/used by the staff of CMC to identify whether the system achieves the best possible solution for the issues acknowledged in the previous stages of this process. The system solutions which will increase efficiency by streamlining the interactions process will be highlighted within the prototype. 
