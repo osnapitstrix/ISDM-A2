@@ -9,20 +9,27 @@ Patricia Ann Acosta | 13205669|
 Areeba Khan | 13268608 |
 Ishita Verghese|13209921 |
 
-- [SECTION 1. Project Definition and Project Objectives](#section-1-project-definition-and-project-objectives)
-- [SECTION 2: Stakeholders](#section-2--stakeholders)
-- [SECTION 3: Approach from a Design Thinking Perspective](#section-3--approach-from-a-design-thinking-perspective)
-  * [STEP 1.Empathise](#step-1empathise)
-  * [STEP 2.Define](#step-2define)
-  * [STEP 3. Ideate](#step-3-ideate)
-  * [STEP 4. Prototype](#step-4-prototype)
-  * [STEP 5. Testing](#step-5-testing)
-- [3.1 Reflections](#31-reflections)
-- [3.2 Assumptions](#32-assumptions)
-- [SECTION 4. Agile Methodology: Scrum](#section-4-agile-methodology--scrum)
-- [SECTION 5: System Analysis Assumptions and Evaluations on Methodology that is suitable for Project](#section-5--system-analysis-assumptions-and-evaluations-on-methodology-that-is-suitable-for-project)
-- [SECTION 6: Proposed Workproducts and Models](#section-6--proposed-workproducts-and-models)
-- [SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails](#section-7--competitive-advantages-and-adverse-effects-to-business-if-project-fails)
+## Table of Contents
+Section|Description |
+--------|----- |
+1 |Problem Definition and Project Objectives |
+2 |Stakeholders |
+3 |Approach from a Design Thinking Perspective |
+3.1 |Reflections|
+3.2 |Assumptions|
+4| Agile Methodology: Scrum|
+4.1.1 | Stakeholder 1: Customer Product Backlog |
+4.1.2|  Stakeholder 2: Relationship Manager Product Backlog |
+4.1.3 | Stakeholder 3: Travel Company Owner Product Backlog |
+5 |System Analysis Assumptions |
+6 |Work-Products and Models|
+6.1 |Prototype of the Proposed System| 
+6.2| Use Case Diagram |
+6.3 | Activity Diagram |
+6.4 |Class Diagram |
+6.5 | Collaborative Diagram |
+7 |Competitive Advantages and Adverse Effects to Business if Project Fails |
+
 
 ## SECTION 1. Project Definition and Project Objectives
 
@@ -53,13 +60,17 @@ There are three main stakeholders that have been identified.
 Each phase of design thinking will be analysed closely to provide a better understanding on how the individual phases assist in reducing and resolving issues related to developing the CMC information system.  
 
 ### STEP 1.Empathise 
-Allows for the understanding of user’s pain points and potential improvements that will be required to be developed in order to enhance the user experience. A method to approaching this phase requires the need of interacting with users and considering their viewpoint on the issue. From the interviews conducted, an empathy map was created to provide visualization on user’s attitude and behaviours. This will assist the UX team in revealing any in the current user data and support the greater understanding of end users. 
+Allows for the understanding of user’s pain points and potential improvements that will be required to be developed in order to enhance the user experience. A method to approaching this phase requires the need of interacting with users and considering their viewpoint on the issue. From the interviews conducted, an empathy map was created to provide visualisation of the user’s i.e. customers as well as other stakeholders attitude and behaviours. This will assist the UX team in revealing any in the current user data and support the greater understanding of end users. 
 
 ### STEP 2.Define 
 From the data gathered, it will allow for better exploration and understanding into the core problems identified by users. The overall problem definition consists of – “A major travel company would like to develop an information system to improve the operation
 of their in-house call management centre (CMC)”. With these details, the system designers/developers are able to envision the functions, features and other elements of the system, which will assist in solving the defined problem. 
 
 ### STEP 3. Ideate
+This stage is the most fundamental to the creative development associated with design thinking. By the utilisation of ideation techniques i.e. asking "How Might We..." questions, allows for the expansion and further breakdown of the problem space and stimilates free thinking. Furthermore, the added understanding of a potential customer or other stakeholders pains and gains, the project team are able to look for alternative ways to view the problem. Additionally, the empathy maps developed in stage 1 illustrate the interviewees' pains and gains on the potential change. 
+
+The interviewees' perspectives from the empathy map can be used as a guideline for developing "how might we" ("HMW") statements to kick start brainstorming or further ideation sessions for the project team. 
+
 ** ADD EMPATHY MAP IN PROPER DIAGRAM
 
 __Stakeholder 1: Customer Empathy Diagram__
@@ -74,10 +85,37 @@ __Stakeholder 3: Travel Company Owner Empathy Diagram__
 
 __Stakeholder 3: Travel Company Owner How Might We Statement__
 
+How Might We Statements: 
+
+** NOTE: NEED TO FILTER FOR DIFFERENT STAKEHOLDERS -> WE ALSO NEED TO ADD MORE
+
+1. How might we find a way to book with customers?
+
+2. How might we improve the operation of the the CMC?
+
+3. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
+
+4. How might we improve the packages available to customers?
+
+5. How might we improve the way the relationship managers are matched with the customers further?
+
+6. How might we improve the customers' likelihood score to purchase a product/package?
+
+7. How might we improve the operation during busy times?
+
+8. How might we improve the way we approach the customers?
+
+9. How might we improve the operation during times of low levels of customers?
+
+10. How might we ensure that we're able to fulfil all customers orders?
+
+11. How might we improve the overall customer experience?
+
 ### STEP 4. Prototype
+The prototyping stage will involve the system developers producing inexpensive, scaled-down versions of the proposed application, capturing all required features. This will be done in an iterative process by continuous check ins with the Travel Company owner and other stakeholders to ensure the system is meeting their needs. The prototype will be tested/used by the staff of CMC to identify whether the system achieves the best possible solution for the issues acknowledged in the previous stages of this process. The system solutions which will increase efficiency by streamlining the interactions process will be highlighted within the prototype. 
 
 ### STEP 5. Testing
-
+During the testing phase, system testers will test against user acceptance tests to ensure full fuctionality of the system. Future users of the system/other stakeholders will also experiment with the developed prototype. The results driven from this stage will allow for redefining the issue if needed and derive a full understanding of the user experience along with their conditions of use.  
 
 ## 3.1 Reflections
 
@@ -178,23 +216,18 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ## SECTION 5: System Analysis Assumptions and Evaluations on Methodology that is suitable for Project
 
-STILL MISSING!!!
-
 ## SECTION 6: Proposed Workproducts and Models
 
 ** NOTE WE NEED TO ADD DESCRIPTIONS WITH THESE DIAGRAMS
 
-__6.1 Use Case Diagram__
+__6.1 Prototype of the Proposed System__
+
+__6.2 Use Case Diagram__
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
 
-NOTE: WE NEED TO RESIZE THIS IMAGES => TAKE TOO MUCH SPACE
+![Use Case Diagram](https://user-images.githubusercontent.com/62224150/82743752-f5b15300-9db2-11ea-9168-c2e66397fedc.jpeg)
 
-![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83012214-734cbb80-a05e-11ea-97d9-706c55c9d4e1.jpeg)
-
-![Use case diagram FOR TRAVEL COMP](https://user-images.githubusercontent.com/62224150/83012250-7e9fe700-a05e-11ea-8b03-130c25bacd9c.jpeg)
-
-![Use case diagram for RM (1)](https://user-images.githubusercontent.com/62224150/83012280-8495c800-a05e-11ea-80e9-0b94ef0b00c7.jpeg)
 
 The following list summarises what is in the diagram:
 - The customers wants to book a holiday in order to travel abroad to their desired destination. In order to do that they wish to speak to a knowledagble RM whom can answer all their queries and concerns. Through their interest and the RM's instructions they then create a profile. This profile is created through the questionnaire in which they answer a few questions about themself. This profile can now be viewed by the customer, RM and the Travel Company Manager. 
@@ -205,13 +238,9 @@ The following list summarises what is in the diagram:
 - The RM is in charge of arranging promotional packages through arranging travel packges with the help of the Travel Company Owner
 - The Travel Company Owner hires an employee they deem fit for the role of RM and trains them in order to improve their selling techniques and ensure they provide the best customer service to all customers.  
 
-__6.2 Activity Diagram__
-Inbound:
+__6.3 Activity Diagram__
 
-Outbound:
-
-
-__6.3 Class Diagram__
+__6.4 Class Diagram__
 
 Unified Modified Language Class diagrams provide general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
 
@@ -235,17 +264,3 @@ Unified Modified Language Class diagrams provide general overview of the schemat
 __6.5 Collaborative Diagram__
 
 ## SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails
-
-One of many competitive advantages the new information system can bring to the company is greater market share, by providing differentiated services. Reducing wait times for customers contacting a Relationship Manager (RM) and increasing the accuracy of RMs correctly matching to customers, current and potential consumers would deviate towards this company, instead of others. By capitalising on the unique feature of relationship marketing via phone, this company can reach successful milestones in the future such as, company expansions and greater profits. However, if the project fails there is the risk of losing both potential and repeat clients. The standout feature in this company is their call management centre (CMC), which can allocate RMs to customers, based on their travel needs and purchase history. If the key component of the new system fails, it would cause frustration amongst customers and decrease a RMs selling streak. Eventually, the longevity of the company will be compromised.
-<br>
-</br>
-The new information system will also encourage the company to achieve economies of scales in the long run, by serving the maximum number of customers, with the lowest production costs. Pain points such as as long wait times between RM and customer allocations, and the outbound call process of RMs contacting customers, is leading to loss of productivity and profits. Improving the efficiency of the system by reducing wait times to a maximum of two minutes, will ensure customers have minimal interaction with the Interactive Voice Response unit, which research has proven, ‘frustrates’ customers (Bitner, M.J., 2011, p.10), whilst maintaining productivity and sales. The efficient system will also reduce costs associated with electricity and specialised software and programs, as RMs will be aware of frequent travellers, who are responsive to outbound calls. Nevertheless, the failure of a new system can have detrimental impact on the company’s cost structures and overall profits. Economies of scales cannot be achieved, and the company will struggle to reach its potential.
-<br>
-</br>
-Another advantage the new system would bring to the company, is greater shareholder interest and funding. A successful system would be able to generate increased profits for the company, resulting in support from shareholders, who will receive a greater dividend in return. Recognition from shareholders is vital for the company if it wants research and development to improve the current new system, in the future. By consistently updating the system, the company ensures they remain at the top the industry. However, if the new system breaks, there will be reduced shareholder interest and diminished certainty for the company, to regain the lost interest. Shareholders would be hesitant to reinvest in the company due to fear of loss, significantly impacting the company’s available funds. 
-
-<br>
-</br>
-Bibliography:
-
-Bitner, M.J. 2011, ‘Self- service technologies: what do customers expect?’, American Marketing Association, vol. 10, no.1, p.10.
