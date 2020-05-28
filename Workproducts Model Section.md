@@ -2,9 +2,9 @@
 
 #### USE CASE DIAGRAM
 
- ![Use Case Diagram](https://user-images.githubusercontent.com/62224150/82743752-f5b15300-9db2-11ea-9168-c2e66397fedc.jpeg)
-
-
+ ![Use case diagram FOR TRAVEL COMP](https://user-images.githubusercontent.com/62224150/83089658-37efd280-a0da-11ea-8f7d-78949ae890f8.jpeg)
+![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83089662-3920ff80-a0da-11ea-9c04-9441e55420c7.jpeg)
+![Use case diagram for RM (1)](https://user-images.githubusercontent.com/62224150/83089666-3a522c80-a0da-11ea-8889-ae2c60488033.jpeg)
 
 
 
