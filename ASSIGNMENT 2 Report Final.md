@@ -1,6 +1,6 @@
 # 31257 Information Systems Development Methodologies
-## Assignment 2: Group Project
-##### Date: 1 June 2020
+## Assignment 2: Group Project Report
+##### Date: 2 June 2020
 
 Student Name|Student ID |
 ------------|---------- |
@@ -20,16 +20,22 @@ Ishita Verghese|13209921 |
 	- [STEP 5. Testing](#step-5-testing)
 - [3.1 Reflections](#31-reflections)
 - [SECTION 4. Agile Methodology: Scrum](#section-4-agile-methodology-scrum)
+	- [STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG](#step-1-create-scrum-artifact-1-priortised-productproject-backlog)
+		- [4.1.1  Stakeholder 1: Customer Product Backlog](#411--stakeholder-1-customer-product-backlog)
+		- [4.1.2 Stakeholder 2: Relationship Manager Product Backlog](#412-stakeholder-2-relationship-manager-product-backlog)
+		- [4.1.3 Travel Company Owner Product Backlog](#413-travel-company-owner-product-backlog)
+	- [STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG](#step-2--sprint-planning-and-creating-scrum-artifact-2-sprint-backlog)
+	- [STEP 3: SCRUM MEETINGS](#step-3-scrum-meetings)
+	- [STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE](#step-4-sprint-review-and-sprint-retrospective)
 - [SECTION 5: System Analysis Assumptions](#section-5-system-analysis-assumptions)
 - [Assumptions:](#assumptions)
 - [SECTION 6: Proposed Workproducts and Models](#section-6-proposed-workproducts-and-models)
-	- [6.1 Prototype of the Proposed System](#61-prototype-of-the-proposed-system)
-	- [6.2 Use Case Diagram](#62-use-case-diagram)
-	- [6.3 Activity Diagram](#63-activity-diagram)
-	- [6.4 Class Diagram](#64-class-diagram)
-	- [6.5 Collaborative Diagram](#65-collaborative-diagram)
-		- [6.5.1 Outbound Call](#651-outbound-call)
-		- [6.5.2 Inbound Call](#652-inbound-call)
+	- [6.1 Use Case Diagram](#61-use-case-diagram)
+	- [6.2 Activity Diagram](#62-activity-diagram)
+	- [6.3 Class Diagram](#63-class-diagram)
+	- [6.4 Collaborative Diagram](#64-collaborative-diagram)
+		- [6.4.1 Outbound Call](#641-outbound-call)
+		- [6.4.2 Inbound Call](#642-inbound-call)
 - [SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails](#section-7-competitive-advantages-and-adverse-effects-to-business-if-project-fails)
 
 
@@ -133,11 +139,11 @@ After the team roles were assigned, the team followed the sequence of steps for 
 <img src="https://user-images.githubusercontent.com/49214046/82641970-81f73500-9c50-11ea-811b-05b12c700198.png" width="800" height="400"  />
  </p>
 
-STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG
+### STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG
 
 This product backlog was made by product owner and contains user stories and point of view statements for each of the identified stakeholders.
 
-__4.1.1  Stakeholder 1: Customer Product Backlog__
+#### 4.1.1  Stakeholder 1: Customer Product Backlog
 
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
@@ -148,7 +154,7 @@ C004 | Customer | I want to ensure I will not miss any promotional package deals
 C005 | Customer | I want to be purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 1
 C006 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | High | 1
 
-__4.1.2 Stakeholder 2: Relationship Manager Product Backlog__
+#### 4.1.2 Stakeholder 2: Relationship Manager Product Backlog
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
 R001| Relationship Manager| I want to be prepared with the various packages available before discussing with customers | so that I can provide answers to customers if there are any queries | High | 1
@@ -159,7 +165,7 @@ R005 | Relationship Manager | I want to reduce the call wait times for customers
 R006| Relationship Manager | I want to maintain positive/professional attitude towards customers | So that customer satisfaction is kept | High | 1
 R007 | Relationship Manager | I want to have more professional developement training| So that I can improve the selling techniques and the system can increase my performance score | Medium | 1
 
-__4.1.3 Travel Company Owner Product Backlog__
+#### 4.1.3 Travel Company Owner Product Backlog
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
 M001 | Travel Company Owner| I want to analyse the customers preferences for packages | So that I can create or arrange more travel packages that satisfy customer needs | High | 1
@@ -170,7 +176,7 @@ M005 | Travel Company Owner| I want to constantly improve the call handling of t
 M006 | Travel Company Owner| I want to reward the relationship managers with high performance | So that the relationship managers are motivated and strive to do their best with the customers | Medium | 1
 M007 | Travel Company Owner| I want to regularly communicate with all relationship managers through the data analytics reports | So that the business can improve and maximise efficiency of business process | Medium | 1
 
-STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG
+### STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG
 
 Sprint Planning involves defining the requirements for each sprint and decide forecasts based on the product backlog. This sprint meetings are run by the Scrum Master and ensure that all team members agree with the objectives and goals provided by the product owner are achieved. The team also filtered which items in the product backlog were more important and the sequence to complete all tasks. The development team also clarifies misunderstandings and plan how they can or cannot deliver specific goals.
 
@@ -195,11 +201,11 @@ __SPRINT 2 BACKLOG:__
 * Product Backlog Items that contribute to the goal: C001, C002, C003, C004, C005, C006, R007, M006, M007
 * Estimated Timeframes: Run for 30 days and have a maximum of 1 day to complete the planning
 
-STEP 3: SCRUM MEETINGS
+### STEP 3: SCRUM MEETINGS
 
 The team had weekly meetings in which they discussed their progress on the project. These meetings allowed the team to deepen their understanding of what tasks and activities are required and to tell what roadblocks team members experienced to complete a particular task so when these problems occurred, the team members could contribute their ideas for potential solutions.  The team was also able to discern and openly discuss what tasks and activities were proven to be more challenging.
 
-STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE
+### STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE
 
 Each sprint ends with a sprint review and sprint retrospective. In the sprint review, the team analyses the product backlog and modifies it if required and make sure that incremental progress is made for each sprint. In the sprint retrospective, the team discusses the results found and determine how to make the development process better. The team evaluates what went well and what could be improved for future iterations. 
 
@@ -224,11 +230,7 @@ While creating the 'how might we' statements the assumptions gathered are:
 
 ## SECTION 6: Proposed Workproducts and Models
 
-** NOTE WE NEED TO ADD DESCRIPTIONS WITH THESE DIAGRAMS
-
-### 6.1 Prototype of the Proposed System
-
-### 6.2 Use Case Diagram
+### 6.1 Use Case Diagram
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
 
@@ -245,9 +247,9 @@ The following list summarises what is in the diagram:
 - The RM is in charge of arranging promotional packages through arranging travel packges with the help of the Travel Company Owner
 - The Travel Company Owner hires an employee they deem fit for the role of RM and trains them in order to improve their selling techniques and ensure they provide the best customer service to all customers.  
 
-### 6.3 Activity Diagram
+### 6.2 Activity Diagram
 
-### 6.4 Class Diagram
+### 6.3 Class Diagram
 
 Unified Modified Language Class diagrams provide general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
 
@@ -267,9 +269,9 @@ Unified Modified Language Class diagrams provide general overview of the schemat
  10. Relationship Manager makes 0 and more Sale Item/Items
  11. Sale Item is composed of 1 or more Travel Package/Packages
 
-### 6.5 Collaborative Diagram
+### 6.4 Collaborative Diagram
 
-#### 6.5.1 Outbound Call
+#### 6.4.1 Outbound Call
 
 ![Collaborative Diagram-Outbound](https://user-images.githubusercontent.com/49214046/83204016-194b1380-a18e-11ea-9a32-c61acfe4bcd2.jpg)
 
@@ -283,18 +285,21 @@ The following list summarises what is in the diagram:
 6.2 The Relationship Manager retrieves the script/guidelines and proceeds to Step 7.
 7. The Relationship Manaager calls the target customer and try to sell a travel package.
 
-#### 6.5.2 Inbound Call
+#### 6.4.2 Inbound Call
 
 ## SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails
 
 Advanatages:
  1. Successfully differentiating service
+ 
 One of many competitive advantages the new information system can bring to the company is greater market share, by providing differentiated services. Reducing wait times for customers contacting a Relationship Manager (RM) and increasing the accuracy of RMs correctly matching to customers, current and potential consumers would deviate towards this company, instead of others. By capitalising on the unique feature of relationship marketing via phone, this company can reach successful milestones in the future such as, company expansions and greater profits. 
 
  2. Reduce costs and achieve economies of scale
+ 
 The new information system will also encourage the company to achieve economies of scales in the long run, by serving the maximum number of customers, with the lowest production costs. Pain points such as as long wait times between RM and customer allocations, and the outbound call process of RMs contacting customers, is leading to loss of productivity and profits. Improving the efficiency of the system by reducing wait times to a maximum of two minutes, will ensure customers have minimal interaction with the Interactive Voice Response unit, which research has proven, ‘frustrates’ customers (Bitner, M.J., 2011, p.10), whilst maintaining productivity and sales. The efficient system will also reduce costs associated with electricity and specialised software and programs, as RMs will be aware of frequent travellers, who are responsive to outbound calls. 
 
  3. Increased shareholders profits for R&D
+ 
 Another advantage the new system would bring to the company, is greater shareholder interest and funding. A successful system would be able to generate increased profits for the company, resulting in support from shareholders, who will receive a greater dividend in return. Recognition from shareholders is vital for the company if it wants research and development to improve the current new system, in the future. By consistently updating the system, the company ensures they remain at the top the industry.
 
 Disadvantages:
