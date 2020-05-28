@@ -275,8 +275,7 @@ __6.5 Collaborative Diagram__
 Advanatages:
  1. Successfully differentiating service
 One of many competitive advantages the new information system can bring to the company is greater market share, by providing differentiated services. Reducing wait times for customers contacting a Relationship Manager (RM) and increasing the accuracy of RMs correctly matching to customers, current and potential consumers would deviate towards this company, instead of others. By capitalising on the unique feature of relationship marketing via phone, this company can reach successful milestones in the future such as, company expansions and greater profits. 
-<br>
-</br>
+
  2. Reduce costs and achieve economies of scale
 The new information system will also encourage the company to achieve economies of scales in the long run, by serving the maximum number of customers, with the lowest production costs. Pain points such as as long wait times between RM and customer allocations, and the outbound call process of RMs contacting customers, is leading to loss of productivity and profits. Improving the efficiency of the system by reducing wait times to a maximum of two minutes, will ensure customers have minimal interaction with the Interactive Voice Response unit, which research has proven, ‘frustrates’ customers (Bitner, M.J., 2011, p.10), whilst maintaining productivity and sales. The efficient system will also reduce costs associated with electricity and specialised software and programs, as RMs will be aware of frequent travellers, who are responsive to outbound calls. 
 <br>
