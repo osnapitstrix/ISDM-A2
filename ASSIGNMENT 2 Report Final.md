@@ -278,24 +278,19 @@ One of many competitive advantages the new information system can bring to the c
 
  2. Reduce costs and achieve economies of scale
 The new information system will also encourage the company to achieve economies of scales in the long run, by serving the maximum number of customers, with the lowest production costs. Pain points such as as long wait times between RM and customer allocations, and the outbound call process of RMs contacting customers, is leading to loss of productivity and profits. Improving the efficiency of the system by reducing wait times to a maximum of two minutes, will ensure customers have minimal interaction with the Interactive Voice Response unit, which research has proven, ‘frustrates’ customers (Bitner, M.J., 2011, p.10), whilst maintaining productivity and sales. The efficient system will also reduce costs associated with electricity and specialised software and programs, as RMs will be aware of frequent travellers, who are responsive to outbound calls. 
-<br>
-</br>
+
  3. Increased shareholders profits for R&D
 Another advantage the new system would bring to the company, is greater shareholder interest and funding. A successful system would be able to generate increased profits for the company, resulting in support from shareholders, who will receive a greater dividend in return. Recognition from shareholders is vital for the company if it wants research and development to improve the current new system, in the future. By consistently updating the system, the company ensures they remain at the top the industry.
-<br>
-</br>
+
 Disadvantages:
  1. If the new project fails in its differentiation, there is the increased risk of losing both potential and repeat clients. The standout feature in this company is their call management centre (CMC), which can allocate RMs to customers, based on their travel needs and purchase history. If the key component of the new system fails, it would cause frustration amongst customers and decrease a RMs selling streak. Eventually, the longevity of the company will be compromised.
-<br>
-</br>
+
  2. Lack of economies of scale can reduce current and future potential
 The failure of a new system can have detrimental impact on the company’s cost structures and overall profits. The level of productivity the company can achieve, will not be unlocked, leading to loss of labour and customers, as both groups divert to the competition. Attaining economies of scale is essential otherwise the company will struggle to reach cover costs and maintain adequate profits.
-<br>
-</br>
+
  3. Decreased shareholder trust for future projects
 If the new system cannot function, there will be reduced shareholder interest and diminished certainty for the company, to regain the lost interest. Shareholders would be hesitant to reinvest in the company due to fear of loss, significantly impacting the company’s available funds. In the long term, this can negatively impact funding for research and development.
-<br>
-</br>
+
 
 References:
 1. Bitner, M.J. 2011, ‘Self- service technologies: what do customers expect?’, American Marketing Association, vol. 10, no.1, p.10.
