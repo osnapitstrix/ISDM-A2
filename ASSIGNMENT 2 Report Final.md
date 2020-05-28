@@ -71,8 +71,6 @@ This stage is the most fundamental to the creative development associated with d
 
 The interviewees' perspectives from the empathy map can be used as a guideline for developing "how might we" ("HMW") statements to kick start brainstorming or further ideation sessions for the project team. 
 
-** ADD EMPATHY MAP IN PROPER DIAGRAM
-
 __Stakeholder 1: Customer Empathy Diagram__
 ![image](https://user-images.githubusercontent.com/62224079/83110213-11e02780-a106-11ea-9484-20b7b202f3ee.png)
 
