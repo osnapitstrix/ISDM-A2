@@ -213,12 +213,6 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ## Assumptions:
 
-While creating the 'how might we' statements the assumptions gathered are:
-
-- Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
-- The technique which matches RM with customers requires improvement
-- Customers experience long waiting times
-
 - The technology for the system is available
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
 - The system goals included in the analysis do not conflict with the system goals that are excluded from the analysis
@@ -281,8 +275,11 @@ The following list summarises what is in the diagram:
 3. The Customer Profile Database provides the details for the target customer.
 4. The target list is generated based on customer details.
 5. The system displays the details 
+
 6.1. The system also provides the Relationship Manager with guidelines and a script to help in providing an improved service to the end-customer. 
+
 6.2 The Relationship Manager retrieves the script/guidelines and proceeds to Step 7.
+
 7. The Relationship Manaager calls the target customer and try to sell a travel package.
 
 #### 6.4.2 Inbound Call
