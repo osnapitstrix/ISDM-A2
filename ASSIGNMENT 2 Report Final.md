@@ -116,15 +116,6 @@ During the testing phase, system testers will test against user acceptance tests
 
 Using the empathy maps we have as a team been able to evaluate the customer and their relationship with the RM which allowed us to attain different perceptions of the customer and the RM. It allowed us to understand how the customer may feel and their needs and wants in regard to this experience. We came to the conclusion that the customer going into this experience does not have any knowledge and is merely a curious client wantng to be given all the knowledge possible in regards to travel packages. The customer will continue to extract more information to increase their understanding and knowledge about the travel packages and what will work best for them. We have also indentified the three key stakeholders within this company as being the Realtionship Manager (RM), the customer and the Manager of the RM's/Company as we believe these are the main roles involved and that hold sufficient interest within the company. In regards to the prototype, we as a team will decide which possible prototpye design we feel will suceed and provide us as the most breakthrough solution. Through some further brainstorming we concluded that some solutions we could implement are collaborating with other airlines and developing sale and inventory system application.
 
-## 3.2 Assumptions
-
-While creating the 'how might we' statements the assumptions gathered are:
-
-- Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
-- The technique which matches RM with customers requires improvement
-- Customers experience long waiting times
-- The technology for the system is available
-
 ## SECTION 4. Agile Methodology: Scrum
 Agile models refers to a group of software development methodologies based on iterative development. The agile methodology that will be useful for the travel company is Scrum. ‘Scrum is an agile process that allows us to focus on delivering the business value in the shortest time.’ (Chandran 2020).  Scrum also involves a self-organising team of product owner, scrum master and development team roles. This team must adapt to changing business and technology needs and ‘accomplish the work without depending on others’. (Chandran 2020)
 
@@ -209,9 +200,15 @@ STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE
 
 Each sprint ends with a sprint review and sprint retrospective. In the sprint review, the team analyses the product backlog and modifies it if required and make sure that incremental progress is made for each sprint. In the sprint retrospective, the team discusses the results found and determine how to make the development process better. The team evaluates what went well and what could be improved for future iterations. 
 
-## SECTION 5: System Analysis Assumptions and Evaluations on Methodology that is suitable for Project
+## SECTION 5: System Analysis Assumptions
 
 ## Assumptions:
+
+While creating the 'how might we' statements the assumptions gathered are:
+
+- Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
+- The technique which matches RM with customers requires improvement
+- Customers experience long waiting times
 
 - The technology for the system is available
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
@@ -231,6 +228,8 @@ __6.1 Prototype of the Proposed System__
 __6.2 Use Case Diagram__
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
+
+** NOTE WE NEED TO RESIZE THESE IMAGES
 
 ![Use case diagram FOR TRAVEL COMP](https://user-images.githubusercontent.com/62224150/83089658-37efd280-a0da-11ea-8f7d-78949ae890f8.jpeg)
 ![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83089662-3920ff80-a0da-11ea-9c04-9441e55420c7.jpeg)
