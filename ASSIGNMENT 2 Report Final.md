@@ -10,25 +10,28 @@ Areeba Khan | 13268608 |
 Ishita Verghese|13209921 |
 
 ## Table of Contents
-Section|Description |
---------|----- |
-1 |Problem Definition and Project Objectives |
-2 |Stakeholders |
-3 |Approach from a Design Thinking Perspective |
-3.1 |Reflections|
-3.2 |Assumptions|
-4| Agile Methodology: Scrum|
-4.1.1 | Stakeholder 1: Customer Product Backlog |
-4.1.2|  Stakeholder 2: Relationship Manager Product Backlog |
-4.1.3 | Stakeholder 3: Travel Company Owner Product Backlog |
-5 |System Analysis Assumptions |
-6 |Work-Products and Models|
-6.1 |Prototype of the Proposed System| 
-6.2| Use Case Diagram |
-6.3 | Activity Diagram |
-6.4 |Class Diagram |
-6.5 | Collaborative Diagram |
-7 |Competitive Advantages and Adverse Effects to Business if Project Fails |
+- [SECTION 1. Project Definition and Project Objectives](#section-1-project-definition-and-project-objectives)
+- [SECTION 2: Stakeholders](#section-2-stakeholders)
+- [SECTION 3: Approach from a Design Thinking Perspective](#section-3-approach-from-a-design-thinking-perspective)
+	- [STEP 1.Empathise](#step-1empathise)
+	- [STEP 2.Define](#step-2define)
+	- [STEP 3. Ideate](#step-3-ideate)
+	- [STEP 4. Prototype](#step-4-prototype)
+	- [STEP 5. Testing](#step-5-testing)
+- [3.1 Reflections](#31-reflections)
+- [SECTION 4. Agile Methodology: Scrum](#section-4-agile-methodology-scrum)
+- [SECTION 5: System Analysis Assumptions](#section-5-system-analysis-assumptions)
+- [Assumptions:](#assumptions)
+- [SECTION 6: Proposed Workproducts and Models](#section-6-proposed-workproducts-and-models)
+	- [6.1 Prototype of the Proposed System](#61-prototype-of-the-proposed-system)
+	- [6.2 Use Case Diagram](#62-use-case-diagram)
+	- [6.3 Activity Diagram](#63-activity-diagram)
+	- [6.4 Class Diagram](#64-class-diagram)
+	- [6.5 Collaborative Diagram](#65-collaborative-diagram)
+		- [6.5.1 Outbound Call](#651-outbound-call)
+		- [6.5.2 Inbound Call](#652-inbound-call)
+- [SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails](#section-7-competitive-advantages-and-adverse-effects-to-business-if-project-fails)
+
 
 
 ## SECTION 1. Project Definition and Project Objectives
@@ -223,13 +226,11 @@ While creating the 'how might we' statements the assumptions gathered are:
 
 ** NOTE WE NEED TO ADD DESCRIPTIONS WITH THESE DIAGRAMS
 
-__6.1 Prototype of the Proposed System__
+### 6.1 Prototype of the Proposed System
 
-__6.2 Use Case Diagram__
+### 6.2 Use Case Diagram
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
-
-** NOTE WE NEED TO RESIZE THESE IMAGES
 
 ![Use case diagram FOR TRAVEL COMP](https://user-images.githubusercontent.com/62224150/83089658-37efd280-a0da-11ea-8f7d-78949ae890f8.jpeg)
 ![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83089662-3920ff80-a0da-11ea-9c04-9441e55420c7.jpeg)
@@ -244,17 +245,16 @@ The following list summarises what is in the diagram:
 - The RM is in charge of arranging promotional packages through arranging travel packges with the help of the Travel Company Owner
 - The Travel Company Owner hires an employee they deem fit for the role of RM and trains them in order to improve their selling techniques and ensure they provide the best customer service to all customers.  
 
-__6.3 Activity Diagram__
+### 6.3 Activity Diagram
 
-__6.4 Class Diagram__
+### 6.4 Class Diagram
 
 Unified Modified Language Class diagrams provide general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
 
 <img align="center">
 <img src="https://user-images.githubusercontent.com/49214046/82742268-5040b400-9d9f-11ea-9640-454210e5a0e0.jpg" width="900" height="750"  />
- </p>
   
- The following lists summarises what is in the diagram: 
+ The following list summarises what is in the diagram: 
  1. Travel Company Owner hires 1 or more Relationship Manager/Relationship Managers
  2. Travel Company Owner arranges 1 or more Travel Package/Packages
  3. Relationship Manager sells 1 or more Travel Package/Packages
@@ -267,7 +267,23 @@ Unified Modified Language Class diagrams provide general overview of the schemat
  10. Relationship Manager makes 0 and more Sale Item/Items
  11. Sale Item is composed of 1 or more Travel Package/Packages
 
-__6.5 Collaborative Diagram__
+### 6.5 Collaborative Diagram
+
+#### 6.5.1 Outbound Call
+
+![Collaborative Diagram-Outbound](https://user-images.githubusercontent.com/49214046/83204016-194b1380-a18e-11ea-9a32-c61acfe4bcd2.jpg)
+
+The following list summarises what is in the diagram:
+1. The CMC system dials numbers automatically according to a customer target list generated by the system. 
+2. The system retrieves customers details from a database.
+3. The Customer Profile Database provides the details for the target customer.
+4. The target list is generated based on customer details.
+5. The system displays the details 
+6.1. The system also provides the Relationship Manager with guidelines and a script to help in providing an improved service to the end-customer. 
+6.2 The Relationship Manager retrieves the script/guidelines and proceeds to Step 7.
+7. The Relationship Manaager calls the target customer and try to sell a travel package.
+
+#### 6.5.2 Inbound Call
 
 ## SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails
 
