@@ -220,7 +220,12 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 - The technology for the system is available
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
-- 
+- The system goals included in the analysis do not conflict with the system goals that are excluded from the analysis
+- All RM will perform at the quality we expect them to in regards to timeliness and quantity
+- Customers will alert their RM when their needs are not met
+- Each RM will fulfil all the needs of the clients
+- The RM will maintain all the system constraints and tasks which are assigned to them
+- The system controllers will fulfil the tasks delegated to them 
 
 ## SECTION 6: Proposed Workproducts and Models
 
