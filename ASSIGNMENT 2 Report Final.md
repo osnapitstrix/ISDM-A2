@@ -226,8 +226,9 @@ __6.2 Use Case Diagram__
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system through specifying expected behaviours of the system. A use case diagram is never extremely detalilled just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other sceanrios. Of these scenarios and use cases we have captured a total of twelve. 
 
-![Use Case Diagram](https://user-images.githubusercontent.com/62224150/82743752-f5b15300-9db2-11ea-9168-c2e66397fedc.jpeg)
-
+![Use case diagram FOR TRAVEL COMP](https://user-images.githubusercontent.com/62224150/83089658-37efd280-a0da-11ea-8f7d-78949ae890f8.jpeg)
+![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83089662-3920ff80-a0da-11ea-9c04-9441e55420c7.jpeg)
+![Use case diagram for RM (1)](https://user-images.githubusercontent.com/62224150/83089666-3a522c80-a0da-11ea-8889-ae2c60488033.jpeg)
 
 The following list summarises what is in the diagram:
 - The customers wants to book a holiday in order to travel abroad to their desired destination. In order to do that they wish to speak to a knowledagble RM whom can answer all their queries and concerns. Through their interest and the RM's instructions they then create a profile. This profile is created through the questionnaire in which they answer a few questions about themself. This profile can now be viewed by the customer, RM and the Travel Company Manager. 
