@@ -276,6 +276,12 @@ The following list summarises what is in the diagram:
 
 ### 6.2 Activity Diagram
 
+![Activity diagram Inbound](https://user-images.githubusercontent.com/62224104/83255757-6235b300-a1f4-11ea-9681-c4bd6a712144.jpeg)
+
+![Activity diagram Outbound](https://user-images.githubusercontent.com/62224104/83255759-6366e000-a1f4-11ea-80f0-4b465c301328.jpeg)
+
+![Activity diagram TC](https://user-images.githubusercontent.com/62224104/83255797-78437380-a1f4-11ea-84a1-68fd66ca9600.jpeg)
+
 ### 6.3 Class Diagram
 
 Unified Modified Language Class diagrams provide general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
