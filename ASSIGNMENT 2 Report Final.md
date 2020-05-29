@@ -377,17 +377,11 @@ The following list summarises the steps from the diagram:
 7. The Relationship Manaager calls the target customer and try to sell a travel package.
 
 #### 6.4.2 Inbound Call
+![Collaborative Diagram-Inbound](https://user-images.githubusercontent.com/49214046/83257299-6f07d600-a1f7-11ea-908e-aec5c4b35088.png)
 
-The following list summarises what is in the diagram:
-1. The customer calls the CMC.
-
-2.1 If the CMC is busy, the customer will be directed to Interactive Voice Response Unit. The Interactive Voice response prompts options and asks customers reasons for calling the CMC.
-
-2.2 The automatic call distributor will redirect/route the customer to the first available appropriate relationship manager.
-
-3. If the CMC is not busy, a skill score is calculated for Relationship Manager based on previous call/duration and for Customer based on likelihood to purchase the product.
-
-4. The customers with a higher likelihood score will be redirected to the relationship manager.
+The customer calls the CMC. There are two things that happen when a customer calls using inbound method.
+1. If the CMC is busy, the customer will be redirected to the Interactive Voice Response. This Interactive Voice Response will ask the customer reasons why they are calling the CMC. The customer will respond to the question. Based on the response, the Interactive Voice Response will redirect the customer to the automatic call distributor. When the customer is at this stage, they wait until there is an available Relationship Manager to attend to their needs.
+2. If the CMC is not busy, the customer and relationship manager profiles are retrieved from their profiler tools. They are matched based on the segmentation technique. After, the system requests for customer likelihood purchase score and relationship manager skill score which is calculated as they are matched. The customer with very high likelihood purchase scores are redirected to the next available Relationship Manager. The Relationship Manager will attend to their needs and try to sell the travel packages.
 
 
 ## SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails
