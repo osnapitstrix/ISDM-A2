@@ -213,16 +213,31 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ## Assumptions:
 
-While creating the 'how might we' statements the assumptions gathered are:
-
+## Assumptions about the current system: 
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
 - The technique which matches RM with customers requires improvement
 - Customers experience long waiting times
+- Customer and RM are matched based on the questionnaire answers 
+- Calls can be made or received by the customer
+- Calls can be made of receieved by the RM
 
+## Assumptions about the enhanced system:
 - The technology for the system is available
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
+- The target list consists of customer profiles who wish to receieve promotional packages 
 - The system goals included in the analysis do not conflict with the system goals that are excluded from the analysis
 - All RM will perform at the quality we expect them to in regards to timeliness and quantity
+- The RM also has a profile which is updated after every call or interaction with a customer
+- The customers profile updates whenever they finalise or book a trip
+- If a customer has not used the service before, the RM will ask for their details through a questionnaire and create a customer profile 
+- The customer profile is created based on the questionnaire answers 
+- The Customer, RM and the travel company owner can view the customer profile 
+- The questionnaire consists of questions about the customers personal details and details related to previous purchases
+- The customer profile will consist of all their personal details, details regarding previous purchases and their score in regards to destination scores
+- An inbound call coming from the customer will go directly to their matched RM
+- The customer and RM are matched based off of the customers questionnaire answers
+- If the matched RM is busy the customers inbound call will get transferred to the next eligible matched RM
+- When the customer makes a payment that is also updated to their customer profile
 - Customers will alert their RM when their needs are not met
 - Each RM will fulfil all the needs of the clients
 - The RM will maintain all the system constraints and tasks which are assigned to them
