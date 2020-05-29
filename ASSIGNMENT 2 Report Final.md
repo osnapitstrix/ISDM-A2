@@ -16,61 +16,28 @@ Ishita Verghese|13209921 |
 	- [STEP 1.Empathise](#step-1empathise)
 	- [STEP 2.Define](#step-2define)
 	- [STEP 3. Ideate](#step-3-ideate)
+		- [3.1.1 Stakeholder 1: Customer Empathy Diagram](#311-stakeholder-1-customer-empathy-diagram)
+		- [3.1.2 Stakeholder 1: Customer How Might We Statement](#312-stakeholder-1-customer-how-might-we-statement)
+		- [3.2.1 Stakeholder 2: Relationship Manager Empathy Diagram](#321-stakeholder-2-relationship-manager-empathy-diagram)
+		- [3.2.2 Stakeholder 2: Relationship Manager How Might We Statement](#322-stakeholder-2-relationship-manager-how-might-we-statement)
+		- [3.3.1 Stakeholder 3: Travel Company Owner Empathy Diagram](#331-stakeholder-3-travel-company-owner-empathy-diagram)
+		- [3.3.2 Stakeholder 3: Travel Company Owner How Might We Statement](#332-stakeholder-3-travel-company-owner-how-might-we-statement)
 	- [STEP 4. Prototype](#step-4-prototype)
 	- [STEP 5. Testing](#step-5-testing)
-- [3.1 Reflections](#31-reflections)
+	- [3.1 Reflections](#31-reflections)
 - [SECTION 4. Agile Methodology: Scrum](#section-4-agile-methodology-scrum)
 	- [STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG](#step-1-create-scrum-artifact-1-priortised-productproject-backlog)
 		- [4.1.1  Stakeholder 1: Customer Product Backlog](#411--stakeholder-1-customer-product-backlog)
 		- [4.1.2 Stakeholder 2: Relationship Manager Product Backlog](#412-stakeholder-2-relationship-manager-product-backlog)
 		- [4.1.3 Travel Company Owner Product Backlog](#413-travel-company-owner-product-backlog)
 	- [STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG](#step-2--sprint-planning-and-creating-scrum-artifact-2-sprint-backlog)
+		- [SPRINT 1 BACKLOG:](#sprint-1-backlog)
+		- [SPRINT 2 BACKLOG:](#sprint-2-backlog)
 	- [STEP 3: SCRUM MEETINGS](#step-3-scrum-meetings)
 	- [STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE](#step-4-sprint-review-and-sprint-retrospective)
 - [SECTION 5: System Analysis Assumptions](#section-5-system-analysis-assumptions)
-- [5.1 Assumptions about the current system:](#51-assumptions-about-the-current-system)
-- [5.2 Assumptions about the enhanced system:](#52-assumptions-about-the-enhanced-system)
-- [SECTION 6: Proposed Workproducts and Models](#section-6-proposed-workproducts-and-models)
-	- [6.1 Use Case Diagram](#61-use-case-diagram)
-	- [6.2 Activity Diagram](#62-activity-diagram)
-	- [6.3 Class Diagram](#63-class-diagram)
-	- [6.4 Collaborative Diagram](#64-collaborative-diagram)
-		- [6.4.1 Outbound Call](#641-outbound-call)
-		- [6.4.2 Inbound Call](#642-inbound-call)
-- [SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails](#section-7-competitive-advantages-and-adverse-effects-to-business-if-project-fails)
-
-# 31257 Information Systems Development Methodologies
-## Assignment 2: Group Project Report
-##### Date: 2 June 2020
-
-Student Name|Student ID |
-------------|---------- |
-Amna Abbasi |13227297|
-Patricia Ann Acosta | 13205669|
-Areeba Khan | 13268608 |
-Ishita Verghese|13209921 |
-
-## Table of Contents
-- [SECTION 1. Project Definition and Project Objectives](#section-1-project-definition-and-project-objectives)
-- [SECTION 2: Stakeholders](#section-2-stakeholders)
-- [SECTION 3: Approach from a Design Thinking Perspective](#section-3-approach-from-a-design-thinking-perspective)
-	- [STEP 1.Empathise](#step-1empathise)
-	- [STEP 2.Define](#step-2define)
-	- [STEP 3. Ideate](#step-3-ideate)
-	- [STEP 4. Prototype](#step-4-prototype)
-	- [STEP 5. Testing](#step-5-testing)
-- [3.1 Reflections](#31-reflections)
-- [SECTION 4. Agile Methodology: Scrum](#section-4-agile-methodology-scrum)
-	- [STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG](#step-1-create-scrum-artifact-1-priortised-productproject-backlog)
-		- [4.1.1  Stakeholder 1: Customer Product Backlog](#411--stakeholder-1-customer-product-backlog)
-		- [4.1.2 Stakeholder 2: Relationship Manager Product Backlog](#412-stakeholder-2-relationship-manager-product-backlog)
-		- [4.1.3 Travel Company Owner Product Backlog](#413-travel-company-owner-product-backlog)
-	- [STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG](#step-2--sprint-planning-and-creating-scrum-artifact-2-sprint-backlog)
-	- [STEP 3: SCRUM MEETINGS](#step-3-scrum-meetings)
-	- [STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE](#step-4-sprint-review-and-sprint-retrospective)
-- [SECTION 5: System Analysis Assumptions](#section-5-system-analysis-assumptions)
-- [5.1 Assumptions about the current system:](#51-assumptions-about-the-current-system)
-- [5.2 Assumptions about the enhanced system:](#52-assumptions-about-the-enhanced-system)
+	- [5.1 Assumptions about the Current System:](#51-assumptions-about-the-current-system)
+		- [5.2 Assumptions about the Enhanced System:](#52-assumptions-about-the-enhanced-system)
 - [SECTION 6: Proposed Workproducts and Models](#section-6-proposed-workproducts-and-models)
 	- [6.1 Use Case Diagram](#61-use-case-diagram)
 	- [6.2 Activity Diagram](#62-activity-diagram)
@@ -121,18 +88,18 @@ This stage is the most fundamental to the creative development associated with d
 
 The interviewees' perspectives from the empathy map can be used as a guideline for developing "how might we" ("HMW") statements to kick start brainstorming or further ideation sessions for the project team. 
 
-__Stakeholder 1: Customer Empathy Diagram__
+#### 3.1.1 Stakeholder 1: Customer Empathy Diagram
 ![image](https://user-images.githubusercontent.com/62224079/83110213-11e02780-a106-11ea-9484-20b7b202f3ee.png)
 
-__Stakeholder 1: Customer How Might We Statement__
+#### 3.1.2 Stakeholder 1: Customer How Might We Statement
 1. How might we get the best travel package possible with minimal time/effort? 
 2. How might we be serviced by someone who can meet our needs? 
 3. How might we complete this booking in a timely fashion?
 
-__Stakeholder 2: Relationship Manager Empathy Diagram__
+#### 3.2.1 Stakeholder 2: Relationship Manager Empathy Diagram
 ![image](https://user-images.githubusercontent.com/62224079/83110481-7d29f980-a106-11ea-9582-12c24dafbaeb.png)
 
-__Stakeholder 2: Relationship Manager How Might We Statement__
+#### 3.2.2 Stakeholder 2: Relationship Manager How Might We Statement
 1. How might we improve our own skills to serve customers effectively and efficiently?
 2. How might we improve the customers' likelihood score to purchase a product/package?
 3. How might we upskill in a way that we are tracking to our performance goals? 
@@ -142,10 +109,10 @@ __Stakeholder 2: Relationship Manager How Might We Statement__
 7. How might we ensure that we're able to fulfil all customers orders?
 8. How might we improve the overall customer experience?
 
-__Stakeholder 3: Travel Company Owner Empathy Diagram__
+#### 3.3.1 Stakeholder 3: Travel Company Owner Empathy Diagram
 ![image](https://user-images.githubusercontent.com/62224079/83110323-3dfba880-a106-11ea-8e78-463981ffe38b.png)
 
-__Stakeholder 3: Travel Company Owner How Might We Statement__
+#### 3.3.2 Stakeholder 3: Travel Company Owner How Might We Statement
 1. How might we improve the operation of the the CMC?
 2. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
 3. How might we improve the packages available to customers? 
@@ -162,7 +129,7 @@ The prototyping stage will involve the system developers producing inexpensive, 
 ### STEP 5. Testing
 During the testing phase, system testers will test against user acceptance tests to ensure full functionality of the system. Future users of the system/other stakeholders will also experiment with the developed prototype. The results, driven from this stage, will allow for redefining the issue if needed and derive a full understanding of the user experience along with their conditions of use.  
 
-## 3.1 Reflections
+### 3.1 Reflections
 
 Using the empathy maps we have as a team been able to evaluate the customer and their relationship with the RM, which allowed us to attain different perceptions of the customer and the RM. It allowed us to understand how the customer may feel and their needs and wants regarding this experience. We concluded that the customer going into this experience does not have any knowledge and is merely a curious client wanting to be given all the knowledge possible in regards to travel packages. The customer will continue to extract more information to increase their understanding and knowledge about the travel packages and what will work best for them. We have also identified the three key stakeholders within this company as being the Relationship Manager (RM), the customer and the Manager of the RM's/Company as we believe these are the main roles involved and that hold sufficient interest within the company. In regards to the prototype, we as a team will decide which possible prototype design we feel will succeed and provide us as the most breakthrough solution. Through some further brainstorming, we concluded that some solutions we could implement are collaborating with other airlines and developing sale and inventory system application.
 
@@ -221,7 +188,7 @@ M007 | Travel Company Owner| I want to regularly communicate with all relationsh
 
 Sprint Planning involves defining the requirements for each sprint and decide forecasts based on the product backlog. This sprint meetings are run by the Scrum Master and ensure that all team members agree with the objectives and goals provided by the product owner are achieved. The team also filtered which items in the product backlog were more important and the sequence to complete all tasks. The development team also clarifies misunderstandings and plan how they can or cannot deliver specific goals.
 
-__SPRINT 1 BACKLOG:__
+#### SPRINT 1 BACKLOG:
 * Goals of the Sprint: 
 1. To add more relationship managers for the call management system => When the new relationship managers fills in a questionnaire, the answers will formulate a performance score based on their skills set.
 2. Develop the relationship managers' skill set to handle various types of customers
@@ -232,7 +199,7 @@ __SPRINT 1 BACKLOG:__
 * Product Backlog Items that contribute to the goal: M001, M002, M003, M004, M005, R001, R002, R003, R004, R005, R006
 * Estimated Timeframes: Run for 30 days and have a maximum of 1 day to complete the planning
 
-__SPRINT 2 BACKLOG:__
+#### SPRINT 2 BACKLOG:
 * Goals of the Sprint: 
 1. To focus on customers and ensuring they are satisfied with their experience
 2. To make sure relationship managers are adaptable to any situation and provide all information required to the customers
@@ -351,6 +318,7 @@ Unified Modified Language Class diagrams provide general overview of the schemat
  11. Sale Item is composed of 1 or more Travel Package/Packages
 
 ### 6.4 Collaborative Diagram
+Collaborative Diagrams include Object Name, Actors, Links and Messages. They are used to show how object interact and their relationships. The following diagrams represents the system during an outbound and inbound call
 
 #### 6.4.1 Outbound Call
 
