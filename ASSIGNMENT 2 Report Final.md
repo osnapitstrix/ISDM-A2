@@ -28,7 +28,8 @@ Ishita Verghese|13209921 |
 	- [STEP 3: SCRUM MEETINGS](#step-3-scrum-meetings)
 	- [STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE](#step-4-sprint-review-and-sprint-retrospective)
 - [SECTION 5: System Analysis Assumptions](#section-5-system-analysis-assumptions)
-- [Assumptions:](#assumptions)
+- [5.1 Assumptions about the current system:](#51-assumptions-about-the-current-system)
+- [5.2 Assumptions about the enhanced system:](#52-assumptions-about-the-enhanced-system)
 - [SECTION 6: Proposed Workproducts and Models](#section-6-proposed-workproducts-and-models)
 	- [6.1 Use Case Diagram](#61-use-case-diagram)
 	- [6.2 Activity Diagram](#62-activity-diagram)
@@ -37,7 +38,6 @@ Ishita Verghese|13209921 |
 		- [6.4.1 Outbound Call](#641-outbound-call)
 		- [6.4.2 Inbound Call](#642-inbound-call)
 - [SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails](#section-7-competitive-advantages-and-adverse-effects-to-business-if-project-fails)
-
 
 
 ## SECTION 1. Project Definition and Project Objectives
@@ -211,9 +211,7 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ## SECTION 5: System Analysis Assumptions
 
-## Assumptions:
-
-## Assumptions about the current system: 
+## 5.1 Assumptions about the current system: 
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
 - The technique which matches RM with customers requires improvement
 - Customers experience long waiting times
@@ -221,7 +219,7 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 - Calls can be made or received by the customer
 - Calls can be made of receieved by the RM
 
-## Assumptions about the enhanced system:
+## 5.2 Assumptions about the enhanced system:
 - The technology for the system is available
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
 - The target list consists of customer profiles who wish to receieve promotional packages 
