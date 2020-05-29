@@ -10,9 +10,11 @@
 
 #### ACTIVITY DIAGRAM
 
-![Activity diagram](https://user-images.githubusercontent.com/62224104/82753369-5159fb80-9e08-11ea-8cee-ffb68fb2871c.jpeg)
-<br>
-</br>
+![Activity diagram Inbound](https://user-images.githubusercontent.com/62224104/83255757-6235b300-a1f4-11ea-9681-c4bd6a712144.jpeg)
+
+![Activity diagram Outbound](https://user-images.githubusercontent.com/62224104/83255759-6366e000-a1f4-11ea-80f0-4b465c301328.jpeg)
+
+![Activity diagram TC](https://user-images.githubusercontent.com/62224104/83255797-78437380-a1f4-11ea-84a1-68fd66ca9600.jpeg)
 
 #### CLASS DIAGRAM
 <p align="center">
