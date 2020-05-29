@@ -295,7 +295,7 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system by specifying the expected behaviours of the system. A use case diagram is never extremely detailed, just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other scenarios. 
 
-![Use case diagram FOR TRAVEL COMP](https://user-images.githubusercontent.com/62224150/83089658-37efd280-a0da-11ea-8f7d-78949ae890f8.jpeg)
+![Use Case Diagram for Travel Company Owner](https://user-images.githubusercontent.com/49214046/83258003-d96d4600-a1f8-11ea-99dc-908ea49c4d8e.png)
 
 The following list summarises what is in the diagram:
 - The Travel Company Owner hires an employee they deem fit for the role of RM 
@@ -303,7 +303,7 @@ The following list summarises what is in the diagram:
 - In relation with the RM, the travel company arranges travel packages for promotional advertising 
 - The Travel Company also remains in constant contact with the RM, by communicating with them through the data analytics report
 
-![use case diagram for Customer (1)](https://user-images.githubusercontent.com/62224150/83089662-3920ff80-a0da-11ea-9c04-9441e55420c7.jpeg)
+![Use Case Diagram for Customer](https://user-images.githubusercontent.com/49214046/83258097-03bf0380-a1f9-11ea-955d-4919792a5585.png)
 
 The following list summarises what is in the diagram:
 - The customer creates a profile with the help of the RM, through answering a questionnaire
@@ -313,7 +313,7 @@ The following list summarises what is in the diagram:
 - the customer depends on the target list to ensure they receive promotional packages
 - The customer pays the RM when booking a trip 
 
-![Use case diagram for RM (1)](https://user-images.githubusercontent.com/62224150/83089666-3a522c80-a0da-11ea-8889-ae2c60488033.jpeg)
+![Use Case Diagram for RM](https://user-images.githubusercontent.com/49214046/83258142-16d1d380-a1f9-11ea-999e-acda3e8f79c7.png)
 
 The following list summarises what is in the diagram: 
 - The RM is in direct contact with the customer and provides them with correct and detailled information in order to sell as many packages as possible and earn a high skill matrix scrore through their quality customer service and positive and professional attitude they provide to each individual customer
