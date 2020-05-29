@@ -211,7 +211,7 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ## SECTION 5: System Analysis Assumptions
 
-## 5.1 Assumptions about the current system: 
+### 5.1 Assumptions about the current system: 
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
 - The technique which matches RM with customers requires improvement
 - Customers experience long waiting times
@@ -219,7 +219,7 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 - Calls can be made or received by the customer
 - Calls can be made of receieved by the RM
 
-## 5.2 Assumptions about the enhanced system:
+### 5.2 Assumptions about the enhanced system:
 - The technology for the system is available
 - Part of the team on this project consists of system designers/developers, business analysts, systems architect, system tester and system administrator
 - The target list consists of customer profiles who wish to receieve promotional packages 
@@ -330,7 +330,9 @@ The following list summarises what is in the diagram:
 2.1 If the CMC is busy, the customer will be directed to Interactive Voice Response Unit. The Interactive Voice response prompts options and asks customers reasons for calling the CMC.
 
 2.2 The automatic call distributor will redirect/route the customer to the first available appropriate relationship manager.
+
 3. If the CMC is not busy, a skill score is calculated for Relationship Manager based on previous call/duration and for Customer based on likelihood to purchase the product.
+
 4. The customers with a higher likelihood score will be redirected to the relationship manager.
 
 
