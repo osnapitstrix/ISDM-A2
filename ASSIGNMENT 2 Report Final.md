@@ -266,11 +266,6 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 ### 6.1 Use Case Diagram
 
-|Use Case ID| C002|
-| --- | ---|
-|User Story | I want to talk to a knowledgeable Relationship Manager|
-|Goal | So that I can have all my queries answered |
-
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system by specifying the expected behaviours of the system. A use case diagram is never extremely detailed, just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other scenarios. 
 
 ![Use Case Diagram for Travel Company Owner](https://user-images.githubusercontent.com/49214046/83258003-d96d4600-a1f8-11ea-99dc-908ea49c4d8e.png)
@@ -293,7 +288,12 @@ The following list summarises what is in the diagram:
 
 ## 6.1.2 Use Case ID: Inbound Call
 
-
+|Use Case ID| C002|
+| --- | ---|
+|User Story | I want to talk to a knowledgeable Relationship Manager|
+| --- |
+|Goal | So that I can have all my queries answered |
+| --- |
 
 ![Use Case Diagram for RM](https://user-images.githubusercontent.com/49214046/83258142-16d1d380-a1f9-11ea-999e-acda3e8f79c7.png)
 
