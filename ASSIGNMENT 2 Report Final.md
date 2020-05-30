@@ -276,6 +276,18 @@ The following list summarises what is in the diagram:
 - In relation with the RM, the travel company arranges travel packages for promotional advertising 
 - The Travel Company also remains in constant contact with the RM, by communicating with them through the data analytics report
 
+## 6.1.1 Use Case ID: Hire and Train RM
+
+|Use Case ID| M002|
+| --- | --- |
+|User Story | I want to hire and train relationship managers |
+|Goal | So that they can provide the best customer service and can attend to the customer needs |
+|Priority| High |
+|Actors| Travel Company Owner, Relatioship Manager (RM) |
+|Pre Conditions| Employee is interested in a job at the company |
+|Post Conditions| Travel Company Owner has hired and trained a RM, Employee now has a job as a RM |
+|Trigger| Employee is interested in a job at the company |
+
 ![Use Case Diagram for Customer](https://user-images.githubusercontent.com/49214046/83258097-03bf0380-a1f9-11ea-955d-4919792a5585.png)
 
 The following list summarises what is in the diagram:
