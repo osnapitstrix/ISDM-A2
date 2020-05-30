@@ -297,18 +297,7 @@ The following list summarises what is in the diagram:
 |Pre Conditions| Customer is interested in booking a holiday destination |
 |Post Conditions| Customer can purchase or book a trip as well as have a profile created by then.The profile can be viewed by the customer, RM, and the travel company owner. |
 |Trigger| Customer calls company due to their interest in booking a holiday |
-|Main Flow| 1.	Customer calls RM as they are interested in wanting to book a holiday or have enquiries
-2.RM receives inbound call
-3.RM attends call from customer
-4.Customer expresses interest in booking a holiday 
-5. RM conducts a questionnaire with the customer regarding their personal and purchase details
-6. Customer fills out questionnaire
-7. Customer profile is created
-8. Customer present enquiries in regards to holiday bookings
-9. RM provides the customer with holiday destination options
-10. Customer books holiday 
-11. Customer pays for holiday
-12. Customer profile is updated 
+|Main Flow| 1.	Customer calls RM as they are interested in wanting to book a holiday or have enquiries, 2.RM receives inbound call, 3.RM attends call from customer, 4.Customer expresses interest in booking a holiday, 5. RM conducts a questionnaire with the customer regarding their personal and purchase details, 6. Customer fills out questionnaire, 7. Customer profile is created, 8. Customer present enquiries in regards to holiday bookings, 9. RM provides the customer with holiday destination options, 10. Customer books holiday, 11. Customer pays for holiday, 12. Customer profile is updated |
 
 ![Use Case Diagram for RM](https://user-images.githubusercontent.com/49214046/83258142-16d1d380-a1f9-11ea-999e-acda3e8f79c7.png)
 
