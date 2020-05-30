@@ -37,7 +37,7 @@ Ishita Verghese|13209921 |
 	- [STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE](#step-4-sprint-review-and-sprint-retrospective)
 - [SECTION 5: System Analysis Assumptions](#section-5-system-analysis-assumptions)
 	- [5.1 Assumptions about the Current System:](#51-assumptions-about-the-current-system)
-		- [5.2 Assumptions about the Enhanced System:](#52-assumptions-about-the-enhanced-system)
+	- [5.2 Assumptions about the Enhanced System:](#52-assumptions-about-the-enhanced-system)
 - [SECTION 6: Proposed Workproducts and Models](#section-6-proposed-workproducts-and-models)
 	- [6.1 Use Case Diagram](#61-use-case-diagram)
 	- [6.2 Activity Diagram](#62-activity-diagram)
@@ -155,23 +155,29 @@ This product backlog was made by product owner and contains user stories and poi
 
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
-C001 | Customer | I want to book a holiday| So that I travel abroad to my desired destination | High | 1 |
-C002 | Customer | I want to talk to a knowledgeable Relationship Manager | So that my queries are answered  | High | 1
+C001 | Customer | I want to book a holiday| So that I travel abroad to my desired destination | High | 2 |
+C002 | Customer | I want to talk to a knowledgeable Relationship Manager | So that my queries are answered  | High | 2
 C003 | Customer | I want to quickly contact a Relationship Manager | So that I can know a range of holiday options available| High | 1
-C004 | Customer | I want to ensure I will not miss any promotional package deals and purchase the most cost effective package | So that I can get the best package at a lower price | High | 1
-C005 | Customer | I want to be purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 1
-C006 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | High | 1
+C004 | Customer | I want to ensure I will not miss any promotional package deals and purchase the most cost effective package | So that I can get the best package at a lower price | High | 3
+C005 | Customer | I want to be purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 2
+C006 | Customer | I want to have a high likelihood purchase score | so that I can be matched to the next available Relationship Manager that also has a high skill score | High | 2
+C006 | Customer | I want a smooth experience from Relationship Manager | so that I can give good feedback and increase the RM skill score | Medium | 2
+C007 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | Medium | 2
+COO8 | Customer | I want to be matched with a relationship manager twho has the same culture as me | so that they can understand my culture and social area | Medium | 2
 
 #### 4.1.2 Stakeholder 2: Relationship Manager Product Backlog
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
-R001| Relationship Manager| I want to be prepared with the various packages available before discussing with customers | so that I can provide answers to customers if there are any queries | High | 1
+R001| Relationship Manager| I want to be prepared with the various packages available before discussing with customers | so that I can provide answers to customers if there are any queries | High | 2|
 R002 | Relationship Manager |I want to provide correct and detailed information to the customer | So that I can sell a package | High | 1 |
 R003 | Relationship Manager | I want to sell many packages as possible and serve customers effectively and efficiently | So that my performance in the skill matrix gets adjusted  | High | 1
 R004 | Relationship Manager | I want to target potential buyers with outbound call with the automatically dialing system | So that the the pool of customers gets expanded| High | 1
 R005 | Relationship Manager | I want to reduce the call wait times for customers | So that the customers do not provide negative feedback | High | 1
-R006| Relationship Manager | I want to maintain positive/professional attitude towards customers | So that customer satisfaction is kept | High | 1
-R007 | Relationship Manager | I want to have more professional developement training| So that I can improve the selling techniques and the system can increase my performance score | Medium | 1
+R006 | Relationship Manager | I want to be connected to customers with higher scores first to encourage quick and repeat sales |Medium |3
+R007 | Relationship Manager| I want my subsequent performance score not to go low | so that I can match with more customers and answer their queries| Medium | 2
+R008 | Relationship Manager | I want to be matched with a customer who has the same culture as me | so that I can understand their social and culture area | Medium | 2 
+R008| Relationship Manager | I want to maintain positive/professional attitude towards customers | So that customer satisfaction is kept | Medium | 2
+R009 | Relationship Manager | I want to have more professional development training| So that I can improve the selling techniques and the system can increase my performance score | Medium | 2
 
 #### 4.1.3 Travel Company Owner Product Backlog
 Use Case ID|User | Need | Insight | Priority | Estimation |
@@ -229,7 +235,7 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 * Calls can be made or received by the customer
 * Calls can be made or received by the RM
 
-#### 5.2 Assumptions about the Enhanced System:
+### 5.2 Assumptions about the Enhanced System:
 * The travel company owner will arrange packages relationship managers will use to sell to customers
 * The questionnaire Relationship Manager fill out when they get hired consists of questions to build profile and skill matrix
 * The details (answers and skill matrix) of the Relationship Manager will be stored in the Relationship Manager Profiler Tool
