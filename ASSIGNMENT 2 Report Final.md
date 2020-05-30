@@ -289,11 +289,10 @@ The following list summarises what is in the diagram:
 ## 6.1.2 Use Case ID: Inbound Call
 
 |Use Case ID| C002|
-| --- | ---|
+| --- |
 |User Story | I want to talk to a knowledgeable Relationship Manager|
-| --- |
 |Goal | So that I can have all my queries answered |
-| --- |
+
 
 ![Use Case Diagram for RM](https://user-images.githubusercontent.com/49214046/83258142-16d1d380-a1f9-11ea-999e-acda3e8f79c7.png)
 
