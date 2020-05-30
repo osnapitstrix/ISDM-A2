@@ -160,22 +160,22 @@ C002 | Customer | I want to talk to a knowledgeable Relationship Manager | So th
 C003 | Customer | I want to quickly contact a Relationship Manager | So that I can know a range of holiday options available| High | 1
 C004 | Customer | I want to ensure I will not miss any promotional package deals and purchase the most cost effective package | So that I can get the best package at a lower price | High | 3
 C005 | Customer | I want to be purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 2
-C006 | Customer | I want to have a high likelihood purchase score | So that I can be matched to the next available Relationship Manager that also has a high skill score | High | 2
-C007 | Customer | I want a smooth experience from Relationship Manager | So that I can give good feedback and increase the RM skill score | Medium | 2
-C008 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | Medium | 2
-COO9 | Customer | I want to be matched with a relationship manager twho has the same culture as me | So that they can understand my culture and social area | Medium | 2
+C006 | Customer | I want to have a high likelihood purchase score | so that I can be matched to the next available Relationship Manager that also has a high skill score | High | 2
+C006 | Customer | I want a smooth experience from Relationship Manager | so that I can give good feedback and increase the RM skill score | Medium | 2
+C007 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | Medium | 2
+COO8 | Customer | I want to be matched with a relationship manager twho has the same culture as me | so that they can understand my culture and social area | Medium | 2
 
 #### 4.1.2 Stakeholder 2: Relationship Manager Product Backlog
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
-R001| Relationship Manager| I want to be prepared with the various packages available before discussing with customers | So that I can provide answers to customers if there are any queries | High | 2|
+R001| Relationship Manager| I want to be prepared with the various packages available before discussing with customers | so that I can provide answers to customers if there are any queries | High | 2|
 R002 | Relationship Manager |I want to provide correct and detailed information to the customer | So that I can sell a package | High | 1 |
 R003 | Relationship Manager | I want to sell many packages as possible and serve customers effectively and efficiently | So that my performance in the skill matrix gets adjusted  | High | 1
 R004 | Relationship Manager | I want to target potential buyers with outbound call with the automatically dialing system | So that the the pool of customers gets expanded| High | 1
 R005 | Relationship Manager | I want to reduce the call wait times for customers | So that the customers do not provide negative feedback | High | 1
-R006 | Relationship Manager | I want to be connected to customers with higher scores first | So that I to encourage quick and repeat sales |Medium |3
-R007 | Relationship Manager| I want my subsequent performance score not to go low | So that I can match with more customers and answer their queries| Medium | 2
-R008 | Relationship Manager | I want to be matched with a customer who has the same culture as me | So that I can understand their social and culture area | Medium | 2 
+R006 | Relationship Manager | I want to be connected to customers with higher scores first to encourage quick and repeat sales |Medium |3
+R007 | Relationship Manager| I want my subsequent performance score not to go low | so that I can match with more customers and answer their queries| Medium | 2
+R008 | Relationship Manager | I want to be matched with a customer who has the same culture as me | so that I can understand their social and culture area | Medium | 2 
 R008| Relationship Manager | I want to maintain positive/professional attitude towards customers | So that customer satisfaction is kept | Medium | 2
 R009 | Relationship Manager | I want to have more professional development training| So that I can improve the selling techniques and the system can increase my performance score | Medium | 2
 
@@ -185,10 +185,10 @@ Use Case ID|User | Need | Insight | Priority | Estimation |
 M001 | Travel Company Owner| I want to analyse the customers preferences for packages | So that I can create or arrange more travel packages that satisfy customer needs | High | 1
 M002| Travel Company Owner| I want to hire and train relationship managers | So that they can provide the best customer service and can attend to the customer needs | High | 1
 M003 | Travel Company Owner |I want to ensure that the relationship manager know how to handle different situations | So that the customer's experience is smooth and improve their skill score | High | 1 |
-M004 | Travel Company Owner| I want to ensure the relationship managers are achieving the desired number of sold packages and take corrective action if required| So that the business can meet their goals and it allows for more profit| Medium  1
-M005 | Travel Company Owner| I want to constantly improve the call handling of the CMC system | So that the business can gain competitive advantage and customers stay loyal to the company| Medium | 1
-M006 | Travel Company Owner| I want to reward the relationship managers with high performance | So that the relationship managers are motivated and strive to do their best with the customers | Low | 1
-M007 | Travel Company Owner| I want to regularly communicate with all relationship managers through the data analytics reports | So that the business can improve and maximise efficiency of business process | Low | 1
+M004 | Travel Company Owner| I want to ensure the relationship managers are achieving the desired number of sold packages and take corrective action if required| So that the business can meet their goals and it allows for more profit| High | 1
+M005 | Travel Company Owner| I want to constantly improve the call handling of the CMC system | So that the business can gain competitive advantage and customers stay loyal to the company| High | 1
+M006 | Travel Company Owner| I want to reward the relationship managers with high performance | So that the relationship managers are motivated and strive to do their best with the customers | Medium | 1
+M007 | Travel Company Owner| I want to regularly communicate with all relationship managers through the data analytics reports | So that the business can improve and maximise efficiency of business process | Medium | 1
 
 ### STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG
 
@@ -286,18 +286,22 @@ The following list summarises what is in the diagram:
 - the customer depends on the target list to ensure they receive promotional packages
 - The customer pays the RM when booking a trip 
 
-#### 6.1.2 Use Case ID: Inbound Call
+## 6.1.2 Use Case ID: Inbound Call
 
 |Use Case ID| C002|
 | --- | --- |
 |User Story | I want to talk to a knowledgeable Relationship Manager|
 |Goal | So that I can have all my queries answered |
 |Priority| High |
-|Actors| Customer, Relationship Manager (RM) |
+|Actors| Customer, Relatioship Manager (RM) |
 |Pre Conditions| Customer is interested in booking a holiday destination |
 |Post Conditions| Customer can purchase or book a trip as well as have a profile created by then.The profile can be viewed by the customer, RM, and the travel company owner. |
 |Trigger| Customer calls company due to their interest in booking a holiday |
-|Main Flow| 1.	Customer calls RM as they are interested in wanting to book a holiday or have enquiries, 2.RM receives inbound call, 3.RM attends call from customer, 4.Customer expresses interest in booking a holiday, 5. RM conducts a questionnaire with the customer regarding their personal and purchase details, 6. Customer fills out questionnaire, 7. Customer profile is created, 8. Customer present enquiries in regards to holiday bookings, 9. RM provides the customer with holiday destination options, 10. Customer books holiday, 11. Customer pays for holiday, 12. Customer profile is updated |
+|Main Flow| 1.	Customer calls RM as they are interested in wanting to book a holiday or have enquiries, 2.RM receives inbound call, 3.RM attends call from customer, 4.Customer expresses interest in booking a holiday, 5. RM conducts a questionnaire with the customer regarding their personal and purchase details, 6. Customer fills out questionnaire, 7. Customer profile is created, 8. Customer presents enquiries in regards to holiday bookings, 9. RM provides the customer with holiday destination options, 10. Customer wants to book holiday (Alt Flow 1), 11. Customer pays for holiday, 12. Customer profile is updated with holiday and payment details |
+|Exceptions| Call drops and customer is redirected to a different RM, Amount is zero or negative,Amount is more than the available balance in the account |
+|Includes/Excludes/Inherits| C001, C003, C005, C006 |
+|Supporting Information| None |
+|Non-functional Requirements| 
 
 ![Use Case Diagram for RM](https://user-images.githubusercontent.com/49214046/83258142-16d1d380-a1f9-11ea-999e-acda3e8f79c7.png)
 
@@ -397,5 +401,3 @@ If the new system cannot function, there will be reduced shareholder interest an
 
 References:
 1. Bitner, M.J. 2011, ‘Self- service technologies: what do customers expect?’, American Marketing Association, vol. 10, no.1, p.10.
-2. Chandran, D. 2020, 'Lecture 5: Agile Scrum', UTS Online Subject 31257, lecture notes, UTS, Sydney, viewed 15 May 2020,<https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&content_id=_3756258_1>.
-
