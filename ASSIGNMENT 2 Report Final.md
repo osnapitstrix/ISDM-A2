@@ -149,7 +149,7 @@ After the team roles were assigned, the team followed the sequence of steps for 
 
 ### STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG
 
-This product backlog was made by product owner and contains user stories and point of view statements for each of the identified stakeholders.
+This product backlog was made by product owner and contains user stories for each of the identified stakeholders.
 
 #### 4.1.1  Stakeholder 1: Customer Product Backlog
 
@@ -161,9 +161,9 @@ C003 | Customer | I want to quickly contact a Relationship Manager | So that I c
 C004 | Customer | I want to ensure I will not miss any promotional package deals and purchase the most cost effective package | So that I can get the best package at a lower price | High | 3
 C005 | Customer | I want to be purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 2
 C006 | Customer | I want to have a high likelihood purchase score | So that I can be matched to the next available Relationship Manager that also has a high skill score | High | 2
-C006 | Customer | I want a smooth experience from Relationship Manager | So that I can give good feedback and increase the RM skill score | Medium | 2
-C007 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | Medium | 2
-COO8 | Customer | I want to be matched with a relationship manager twho has the same culture as me | So that they can understand my culture and social area | Medium | 2
+C007 | Customer | I want a smooth experience from Relationship Manager | So that I can give good feedback and increase the RM skill score | Medium | 2
+C008 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | Medium | 2
+COO9 | Customer | I want to be matched with a relationship manager twho has the same culture as me | So that they can understand my culture and social area | Medium | 2
 
 #### 4.1.2 Stakeholder 2: Relationship Manager Product Backlog
 Use Case ID|User | Need | Insight | Priority | Estimation |
@@ -215,9 +215,13 @@ Sprint Planning involves defining the requirements for each sprint and decide fo
 * Product Backlog Items that contribute to the goal: C001, C002, C003, C004, C005, C006, R007, M006, M007
 * Estimated Timeframes: Run for 30 days and have a maximum of 1 day to complete the planning
 
+The sprints were monitored through issues with the necessary tasks to be completed. These issues were created, opened and closing when the specific assigned task has been finished. Github provided the team version control and records of all the changes made in the document. It allows the team to see how the report has modified the report, compare to previous changes and revert changes if required. 
+
 ### STEP 3: SCRUM MEETINGS
 
-The team had weekly meetings in which they discussed their progress on the project. These meetings allowed the team to deepen their understanding of what tasks and activities are required and to tell what roadblocks team members experienced to complete a particular task so when these problems occurred, the team members could contribute their ideas for potential solutions.  The team was also able to discern and openly discuss what tasks and activities were proven to be more challenging.
+Communication and meetings between team members were performed through online Zoom Meetings and through the group chat, which is not preferable. The current situation provided difficulties in meeting the team members face to face. However, the team was able to adapt to this situation and was able to discuss their progress on project tasks for the report.  
+
+During each meeting, project tasks were assigned to each group member to help the team iteratively work on the project within the given deadline. Moreover, the weekly team meetings enabled the team to deepen their understanding of what tasks and activities are required and to tell what roadblocks team members experienced to complete a particular task. The other team members were able to contribute their ideas for potential solutions. The team was also able to discern and openly discuss what tasks and activities were proven to be more challenging.
 
 ### STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE
 
