@@ -322,7 +322,7 @@ The following list summarises what is in the diagram:
 |Exceptions| Call drops and customer is redirected to a different RM, Amount is zero or negative,Amount is more than the available balance in the account |
 |Includes/Excludes/Inherits| C001, C003, C005, C006 |
 |Supporting Information| None |
-|Non-functional Requirements| 
+|Non-functional Requirements| None |
 |Alternate Flow 1| 11. Customer does not want to book holiday
 |Trigger| Customer is not interest in preseted information |
 |Steps| re-join at step 13
@@ -344,11 +344,24 @@ The following list summarises what is in the diagram:
 |User Story| I want to be prepared with the various packages available before discussing with customers |
 |Goal| So that I can provide answers to customers if there are any queries |
 |Priority| High |
-|Actors| Relationship Manager (RM), Customer |
+|Actors| Relationship Manager (RM), Customer, Travel Company owner |
 |Pre Conditions| RM is fully trained by the Travel Company owner |
-|Post Conditions| Customer will have all their queries answered |
+|Post Conditions| Customer will have all their queries answered, Customer will have their profile created by RM |
 |Trigger| Training and communication with travel company owner |
-|Main Flow| 
+|Main Flow| 1.Travel Company Owner trains the RM, 2. Travel Company Owner provides RM with all the information and packages needed to answer all customer enquiries, 3. Customer is interested in booking a holiday, 4. Customer calls RM, 5. RM picks up inbound call, 6. Customer presents enquiries to RM, 7. RM answers queries (Alt Flow 1), 8.Customer wants to book trip (Alt Flow 2), 9.RM asks customer for their details through a questionnaire, 10.Customer profile will be created, 11.Customer makes payment, 12.Customer profile is updated, 13. Customer ends calls, 14.RM's performance in the skill matrix gets adjusted. |
+|Exceptions| Call drops and customer is redirected to a different RM, Amount is zero or negative,Amount is more than the available balance in the account |
+|Includes/Excludes/Inherits| R002, R003
+|Supporting Information| None |
+|Non-functional Requirements| None |
+|Alternate Flow 1| 7.RM does not answer customers queries, 8. Call system directs call to another RM who is a better match for the customer, 9.New RM answers customers queries |
+|Trigger| Current RM cannot answer customers queries |
+|Step| Re join at step 13 |
+|Post Conditions|
+|Alternate Flow 2| 8. Customer does not want to book trip |
+|Trigger| Customer does not want to book trip |
+|Step| Re join at step 13 |
+|Post Conditions|
+
 ### 6.2 Activity Diagram
 A Unified Model Language Activity Diagram is another important form of behavioural requirements model, that describes the dynamic aspects of the system. It details the interactions and behaviours between different processes and stakeholders, in achieving the final outcome. An activity diagram is slightly more detailed than a Use Case Diagram, as it highlights the steps taken to achieve certain tasks, but not as detailed as a Class or Collaborative Diagram, which extract qualities and types of relationships between stakeholders.
 
