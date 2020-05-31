@@ -299,6 +299,7 @@ The following list summarises what is in the diagram:
 |No Alt Flow|
 
 ![Use Case Diagram for Customer](https://user-images.githubusercontent.com/49214046/83258097-03bf0380-a1f9-11ea-955d-4919792a5585.png)
+
 The following list summarises what is in the diagram:
 - The customer creates a profile with the help of the RM, through answering a questionnaire
 - The customers wants to book a holiday in order to travel abroad to their desired destination. In order to do that they wish to speak to a knowledagble RM whom can answer all their queries and concerns. Through their interest and the RM's instructions they then create a profile. This profile is created through the questionnaire in which they answer a few questions about themself. This profile can now be viewed by the customer, RM and the Travel Company Manager. 
@@ -324,12 +325,13 @@ The following list summarises what is in the diagram:
 |Supporting Information| None |
 |Non-functional Requirements| None |
 |Alternate Flow 1| 11. Customer does not want to book holiday
-|Trigger| Customer is not interest in preseted information |
+|Trigger| Customer is not interest in presented information |
 |Steps| re-join at step 13
 |Post Conditions|
 |Exceptions| 
 
 ![Use Case Diagram for RM](https://user-images.githubusercontent.com/49214046/83258142-16d1d380-a1f9-11ea-999e-acda3e8f79c7.png)
+
 The following list summarises what is in the diagram: 
 - The RM is in direct contact with the customer and provides them with correct and detailled information in order to sell as many packages as possible and earn a high skill matrix scrore through their quality customer service and positive and professional attitude they provide to each individual customer
 - The RM depends on the customer to pay them when they book a trip or when they make their official payment for the trip
