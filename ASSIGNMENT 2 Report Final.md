@@ -299,7 +299,6 @@ The following list summarises what is in the diagram:
 |No Alt Flow|
 
 ![Use Case Diagram for Customer](https://user-images.githubusercontent.com/49214046/83258097-03bf0380-a1f9-11ea-955d-4919792a5585.png)
-
 The following list summarises what is in the diagram:
 - The customer creates a profile with the help of the RM, through answering a questionnaire
 - The customers wants to book a holiday in order to travel abroad to their desired destination. In order to do that they wish to speak to a knowledagble RM whom can answer all their queries and concerns. Through their interest and the RM's instructions they then create a profile. This profile is created through the questionnaire in which they answer a few questions about themself. This profile can now be viewed by the customer, RM and the Travel Company Manager. 
@@ -331,7 +330,6 @@ The following list summarises what is in the diagram:
 |Exceptions| 
 
 ![Use Case Diagram for RM](https://user-images.githubusercontent.com/49214046/83258142-16d1d380-a1f9-11ea-999e-acda3e8f79c7.png)
-
 The following list summarises what is in the diagram: 
 - The RM is in direct contact with the customer and provides them with correct and detailled information in order to sell as many packages as possible and earn a high skill matrix scrore through their quality customer service and positive and professional attitude they provide to each individual customer
 - The RM depends on the customer to pay them when they book a trip or when they make their official payment for the trip
@@ -339,6 +337,18 @@ The following list summarises what is in the diagram:
 - The RM conducts a questionnaire which the customer depends on in order to create their profile
 - The RM creates a target list in order to advertise promotional packages 
 
+## 6.1.3 Use Case ID: Package Prep before Customer inbound call
+
+|Use Case ID| R001 |
+| --- | --- |
+|User Story| I want to be prepared with the various packages available before discussing with customers |
+|Goal| So that I can provide answers to customers if there are any queries |
+|Priority| High |
+|Actors| Relationship Manager (RM), Customer |
+|Pre Conditions| RM is fully trained by the Travel Company owner |
+|Post Conditions| Customer will have all their queries answered |
+|Trigger| Training and communication with travel company owner |
+|Main Flow| 
 ### 6.2 Activity Diagram
 A Unified Model Language Activity Diagram is another important form of behavioural requirements model, that describes the dynamic aspects of the system. It details the interactions and behaviours between different processes and stakeholders, in achieving the final outcome. An activity diagram is slightly more detailed than a Use Case Diagram, as it highlights the steps taken to achieve certain tasks, but not as detailed as a Class or Collaborative Diagram, which extract qualities and types of relationships between stakeholders.
 
