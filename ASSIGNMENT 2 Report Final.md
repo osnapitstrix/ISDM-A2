@@ -339,30 +339,33 @@ A Unified Model Language Activity Diagram is another important form of behaviour
 
 ![Activity diagram inbound](https://user-images.githubusercontent.com/62224104/83344088-dfbd0880-a345-11ea-9603-23a819893d08.jpeg)
 The following list summarises what is happening in the inbound call diagram:
--A customer calls the relationship manager (RM), to book a travel package
--There is an automatic profile search of the customer, using the number they are calling with, to determine whether the customer is already in the database of the company. 
--If they are not, they must create a profile, if they already have a profile, they will automatically be assigned an RM suitable to their needs
--The two parties then discuss the suitable packages and deals
--If a customer does not want to purchase, the call ends, if they do, the call also ends, however, payments and processes continue occurring online
--Forms and payments are finalised, and finally a receipt is provided to customers for their purchase
+
+- A customer calls the relationship manager (RM), to book a travel package
+- There is an automatic profile search of the customer, using the number they are calling with, to determine whether the customer is already in the database of the company. 
+- If they are not, they must create a profile, if they already have a profile, they will automatically be assigned an RM suitable to their needs
+- The two parties then discuss the suitable packages and deals
+- If a customer does not want to purchase, the call ends, if they do, the call also ends, however, payments and processes continue occurring online
+- Forms and payments are finalised, and finally a receipt is provided to customers for their purchase
 
 ![Activity diagram Outbound](https://user-images.githubusercontent.com/62224104/83344119-1b57d280-a346-11ea-94e2-6e816274dba5.jpeg)
 The following list summarises what is happening in the outbound call diagram:
--The RM receives new package deals
--They open their target list and apply filters that ensure customers who will be interested in the deal, can be contacted 
--Once the customer list is established, RM’s call customers whom they chat with
--If customers are not interested, call ends, if they are call still ends, however those with an interest receive an email containing the package information and chat log history, and information regarding how to book travels
--RM’s customer list is updated, and they can call the next customer
+
+- The RM receives new package deals
+- They open their target list and apply filters that ensure customers who will be interested in the deal, can be contacted 
+- Once the customer list is established, RM’s call customers whom they chat with
+- If customers are not interested, call ends, if they are call still ends, however those with an interest receive an email containing the package information and chat log history, and information regarding how to book travels
+- RM’s customer list is updated, and they can call the next customer
 
 ![Activity diagram TC](https://user-images.githubusercontent.com/62224104/83344129-2e6aa280-a346-11ea-835c-4f34258cb7bb.jpeg)
 The following list summarises what is happening between an RM and the third-party Travel Company:
--The travel company hires and trains RMs, who then practice their skills
--They are then given a list of customer profiles, whom they can use to create their initial target list
--Once list is complete, RMs receive deals on packages, which they advertise to the customers
--The ‘Off- Page Link’ refers to the inbound call system activity diagram (located above).
--The RM then emails the details of their call to the Travel Company, who then arrange packages accordingly
--Afterwards, the RM’s rating is improved and they are upskilled. They are then paid a commission based on the package sold
--The RM’s target list is updated, which alerts the Travel Company, as they can provide information to more deals to this RM.
+
+- The travel company hires and trains RMs, who then practice their skills
+- They are then given a list of customer profiles, whom they can use to create their initial target list
+- Once list is complete, RMs receive deals on packages, which they advertise to the customers
+- The ‘Off- Page Link’ refers to the inbound call system activity diagram (located above).
+- The RM then emails the details of their call to the Travel Company, who then arrange packages accordingly
+- Afterwards, the RM’s rating is improved and they are upskilled. They are then paid a commission based on the package sold
+- The RM’s target list is updated, which alerts the Travel Company, as they can provide information to more deals to this RM.
 
 ### 6.3 Class Diagram
 
