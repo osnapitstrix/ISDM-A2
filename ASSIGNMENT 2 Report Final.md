@@ -291,6 +291,12 @@ The following list summarises what is in the diagram:
 |Pre Conditions| Employee is interested in a job at the company |
 |Post Conditions| Travel Company Owner has hired and trained a RM, Employee now has a job as a RM |
 |Trigger| Employee is interested in a job at the company |
+|Main Flow| 1.Employee applies for the position of RM, 2.Travel Company Owner evaluates the employees documents, 3.Travel Company Owner hires the employee for the position of RM, 4. Employee now has a job as a RM in the company, 5.The Travel Company owner trains the employee in order to be the best RM possible and provide good customer service, 6. The RM is now well trained for their job |
+|Exceptions| Employee does not get hired for the role of RM within the company |
+|Includes/Excludes/Inherits| M003, M004 |
+|Supporting Information| None |
+|Non-Functional Requirements| None |
+|No Alt Flow|
 
 ![Use Case Diagram for Customer](https://user-images.githubusercontent.com/49214046/83258097-03bf0380-a1f9-11ea-955d-4919792a5585.png)
 
