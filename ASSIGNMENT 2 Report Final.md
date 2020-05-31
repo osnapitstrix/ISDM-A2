@@ -387,7 +387,7 @@ The following list summarises what is happening in the outbound call diagram:
 - If customers are not interested, call ends, if they are call still ends, however those with an interest receive an email containing the package information and chat log history, and information regarding how to book travels
 - RM’s customer list is updated, and they can call the next customer
 
-![Activity diagram TC](https://user-images.githubusercontent.com/62224104/83344129-2e6aa280-a346-11ea-835c-4f34258cb7bb.jpeg)
+![Activity diagram TC](https://user-images.githubusercontent.com/62224104/83350742-8b377e80-a381-11ea-8eaf-a12ee1e0f612.jpeg)
 The following list summarises what is happening between an RM and the third-party Travel Company:
 
 - The travel company hires and trains RMs, who then practice their skills
