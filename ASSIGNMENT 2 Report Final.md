@@ -335,11 +335,12 @@ The following list summarises what is in the diagram:
 
 ### 6.2 Activity Diagram
 
-![Activity diagram inbound](https://user-images.githubusercontent.com/62224104/83343342-6d93f600-a33c-11ea-83d1-e876fc995dc5.jpeg)
+![Activity diagram inbound](https://user-images.githubusercontent.com/62224104/83343713-45f35c80-a341-11ea-855a-491b933ef920.jpeg)
 
-![Activity diagram Outbound](https://user-images.githubusercontent.com/62224104/83343343-7258aa00-a33c-11ea-85ab-09b798d04087.jpeg)
+![Activity diagram Outbound](https://user-images.githubusercontent.com/62224104/83343714-4ab81080-a341-11ea-877f-70f4a42610b1.jpeg)
 
-![Activity diagram TC](https://user-images.githubusercontent.com/62224104/83343345-75ec3100-a33c-11ea-87f4-837f46144c0b.jpeg)
+![Activity diagram TC](https://user-images.githubusercontent.com/62224104/83343716-4e4b9780-a341-11ea-92e7-591a5b1dc355.jpeg)
+
 
 ### 6.3 Class Diagram
 
