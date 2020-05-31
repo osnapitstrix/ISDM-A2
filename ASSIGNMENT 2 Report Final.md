@@ -335,7 +335,7 @@ The following list summarises what is in the diagram:
 
 ### 6.2 Activity Diagram
 
-![Activity diagram inbound](https://user-images.githubusercontent.com/62224104/83343713-45f35c80-a341-11ea-855a-491b933ef920.jpeg)
+![Activity diagram inbound](https://user-images.githubusercontent.com/62224104/83343751-b26e5b80-a341-11ea-99c9-dc94a0cbdf68.jpeg)
 
 ![Activity diagram Outbound](https://user-images.githubusercontent.com/62224104/83343714-4ab81080-a341-11ea-877f-70f4a42610b1.jpeg)
 
