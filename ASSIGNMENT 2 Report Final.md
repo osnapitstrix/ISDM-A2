@@ -9,6 +9,13 @@ Patricia Ann Acosta | 13205669|
 Areeba Khan | 13268608 |
 Ishita Verghese|13209921 |
 
+Video Link:
+https://youtu.be/x8SS7yOGuv0
+
+Github Repository Link: https://github.com/trixiea-25/ISDM-A2-Tut4Grp1
+
+
+
 ## Table of Contents
 - [SECTION 1. Project Definition and Project Objectives](#section-1-project-definition-and-project-objectives)
 - [SECTION 2: Stakeholders](#section-2-stakeholders)
