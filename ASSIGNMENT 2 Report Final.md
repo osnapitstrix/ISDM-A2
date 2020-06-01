@@ -24,7 +24,7 @@ Ishita Verghese|13209921 |
 		- [3.3.2 Stakeholder 3: Travel Company Owner How Might We Statement](#332-stakeholder-3-travel-company-owner-how-might-we-statement)
 	- [STEP 4. Prototype](#step-4-prototype)
 	- [STEP 5. Testing](#step-5-testing)
-	- [3.1 Reflections](#31-reflections)
+	- [Reflections Based on Design Thinking Approach](#reflections-based-on-design-thinking-approach)
 - [SECTION 4. Agile Methodology: Scrum](#section-4-agile-methodology-scrum)
 	- [STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG](#step-1-create-scrum-artifact-1-priortised-productproject-backlog)
 		- [4.1.1  Stakeholder 1: Customer Product Backlog](#411--stakeholder-1-customer-product-backlog)
@@ -40,13 +40,15 @@ Ishita Verghese|13209921 |
 	- [5.2 Assumptions about the Enhanced System:](#52-assumptions-about-the-enhanced-system)
 - [SECTION 6: Proposed Workproducts and Models](#section-6-proposed-workproducts-and-models)
 	- [6.1 Use Case Diagram](#61-use-case-diagram)
+- [6.1.1 Use Case ID: Hire and Train RM](#611-use-case-id-hire-and-train-rm)
+- [6.1.2 Use Case ID: Inbound Call](#612-use-case-id-inbound-call)
+- [6.1.3 Use Case ID: Package Prep before Customer inbound call](#613-use-case-id-package-prep-before-customer-inbound-call)
 	- [6.2 Activity Diagram](#62-activity-diagram)
 	- [6.3 Class Diagram](#63-class-diagram)
 	- [6.4 Collaborative Diagram](#64-collaborative-diagram)
 		- [6.4.1 Outbound Call](#641-outbound-call)
 		- [6.4.2 Inbound Call](#642-inbound-call)
 - [SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails](#section-7-competitive-advantages-and-adverse-effects-to-business-if-project-fails)
-
 
 ## SECTION 1. Project Definition and Project Objectives
 
@@ -216,25 +218,78 @@ M007 | Travel Company Owner| I want to regularly communicate with all relationsh
 Sprint Planning involves defining the requirements for each sprint and decide forecasts based on the product backlog. This sprint meetings are run by the Scrum Master and ensure that all team members agree with the objectives and goals provided by the product owner are achieved. The team also filtered which items in the product backlog were more important and the sequence to complete all tasks. The development team also clarifies misunderstandings and plan how they can or cannot deliver specific goals.
 
 #### SPRINT 1 BACKLOG:
-* Main Intention/Focus for the Sprint: adding more skilled Relationship Managers, arranging travel packages and improving business operations
-* Overall Rationale for Sprint 1:
-1. To add more relationship managers for the call management system => When the new relationship managers fills in a questionnaire, the answers will formulate a performance score based on their skills set.
-2. Develop the relationship managers' skillset to handle various types of customers and situations that can happen in an inbound or outbound call
-3. Improve the call handling and routing of the CMC system
-4. Analyse customers preferences to arrange/create more packages that the relationship managers can sell
-5. To create an information system that make the business processes more efficient
-* Product Backlog Items that contribute to the sprint goals: M001, M002, M003, M004, M005, R001, R002, R003, R004, R005, R006
-* Estimated Timeframes: Run for 30 days and have a maximum of 1 day to complete the planning
+ <table>
+  <tbody>
+    <tr>
+      <th>Backlog Item</th>
+     <th>Description </th>
+ <tr>
+     <td>Main Intention/Focus for the Sprint:</td>
+      <td>
+        <ul> 
+          <li>adding more skilled Relationship Managers</li>
+          <li>arranging travel packages</li>
+	  <li>improving business operations</li>
+        </ul>
+      </td>
+ <tr>	 
+       <td>Overall Rationale for Sprint 1:</td>
+      <td>
+        <ul> 
+	<li>To add more relationship managers for the call management system => When the new relationship managers fills in a questionnaire, the answers will formulate a performance score based on their skills set </li>
+	  <li> Develop the relationship managers' skillset to handle various types of customers and situations that can happen in an inbound or outbound call</li>
+          <li>Improve the call handling and routing of the CMC system</li>
+          <li>Analyse customers preferences to arrange/create more packages that the relationship managers can sell</li>
+	  <li>To create an information system that make the business processes more efficient</li>
+        </ul>
+      </td>
+	  <tr>
+	  <td>Product Backlog Items that contribute to the sprint goals: </td>
+      <td>
+      M001, M002, M003, M004, M005, R001, R002, R004, R005, R006, C007, C008, C009
+      </td>
+<tr>
+      <td>Estimated Timeframe:</td>
+	 <td>Run for 30 days and have a maximum of 1 day to complete the planning</td>
+</table>
+
 
 #### SPRINT 2 BACKLOG:
-* Goals of the Sprint: 
-1. To focus on customers and ensuring they are satisfied with their experience
-2. To make sure relationship managers are adaptable to any situation and provide all information required to the customers
-3. Incentives for relationship managers that have high performance scores
-4. Improve relationship manager skills even further
-
-* Product Backlog Items that contribute to the goal: C001, C002, C003, C004, C005, C006, R007, M006, M007
-* Estimated Timeframes: Run for 30 days and have a maximum of 1 day to complete the planning
+<table>
+  <tbody>
+    <tr>
+      <th>Backlog Item</th>
+     <th>Description </th>
+ <tr>
+     <td>Main Intention/Focus for the Sprint:</td>
+      <td>
+        <ul> 
+          <li>adding more skilled Relationship Managers</li>
+          <li>arranging travel packages</li>
+	  <li>improving business operations</li>
+        </ul>
+      </td>
+ <tr>	 
+       <td>Overall Rationale for Sprint 2:</td>
+      <td>
+        <ul> 
+	<li>To focus on customers and ensuring they are satisfied with their experience </li>
+	  <li> To make sure relationship managers are adaptable to any situation and provide all information required to the customers</li>
+          <li>To target potential buysers with outbound calls with automatically dialing the system/li>
+          <li>Analyse customers preferences to arrange/create more packages that the relationship managers can sell</li>
+	  <li>Incentives for relationship managers that have high performance scores</li>
+	  <li>Improve relationship manager skills even further</li>
+        </ul>
+      </td>
+	  <tr>
+	  <td>Product Backlog Items that contribute to the sprint goals: </td>
+      <td>
+      C001, C002, C003, C004, C005, C006, R007, R008, R009, R010, M006, M007
+      </td>
+<tr>
+      <td>Estimated Timeframe:</td>
+	 <td>Run for 30 days and have a maximum of 1 day to complete the planning</td>
+</table>
 
 The sprints were monitored through issues with the necessary tasks to be completed. These issues were created, opened and closing when the specific assigned task has been finished. Github provided the team version control and records of all the changes made in the document. It allows the team to see how the report has modified the report, compare to previous changes and revert changes if required. 
 
@@ -362,7 +417,7 @@ The following list summarises what is in the diagram:
 
 ## 6.1.3 Use Case ID: Package Prep before Customer inbound call
 
-|Use Case ID| R001 |
+|Use Case ID| R005 |
 | --- | --- |
 |User Story| I want to be prepared with the various packages available before discussing with customers |
 |Goal| So that I can provide answers to customers if there are any queries |
@@ -373,7 +428,7 @@ The following list summarises what is in the diagram:
 |Trigger| Training and communication with travel company owner |
 |Main Flow| 1.Travel Company Owner trains the RM, 2. Travel Company Owner provides RM with all the information and packages needed to answer all customer enquiries, 3. Customer is interested in booking a holiday, 4. Customer calls RM, 5. RM picks up inbound call, 6. Customer presents enquiries to RM, 7. RM answers queries (Alt Flow 1), 8.Customer wants to book trip (Alt Flow 2), 9.RM asks customer for their details through a questionnaire, 10.Customer profile will be created, 11.Customer makes payment, 12.Customer profile is updated, 13. Customer ends calls, 14.RM's performance in the skill matrix gets adjusted. |
 |Exceptions| Call drops and customer is redirected to a different RM, Amount is zero or negative,Amount is more than the available balance in the account |
-|Includes/Excludes/Inherits| R002, R003
+|Includes/Excludes/Inherits| R001,R002, R003
 |Supporting Information| None |
 |Non-functional Requirements| None |
 |Alternate Flow 1| 7.RM does not answer customers queries, 8. Call system directs call to another RM who is a better match for the customer, 9.New RM answers customers queries |
@@ -427,17 +482,16 @@ Unified Modified Language Class diagrams provide general overview of the schemat
 <img src="https://user-images.githubusercontent.com/49214046/82742268-5040b400-9d9f-11ea-9640-454210e5a0e0.jpg" width="900" height="750"  />
   
  The following list summarises what is in the diagram: 
- 1. Travel Company Owner hires 1 or more Relationship Manager/Relationship Managers
- 2. Travel Company Owner arranges 1 or more Travel Package/Packages
- 3. Relationship Manager sells 1 or more Travel Package/Packages
- 4. Customer purchases 1 or more Travel Package/Packages
- 5. Relationship Manager completes Questionnaire (used to create skill matrix)
- 6. Relationship Manager uses TargetList (Outbound Call)
- 7. Target List is composed of  1 or more Customer/Customers and  1 or more Travel Package/Packages 
- 8. Customer and Relationship Manager make and receive calls (caters for Inbound/Outbound calls)
- 9. Customer and Relationship Manager are matched with each other (regardless if Inbound or Outbound Call)
- 10. Relationship Manager makes 0 and more Sale Item/Items
- 11. Sale Item is composed of 1 or more Travel Package/Packages
+* Travel Company Owner hires 1 or more Relationship Manager/Relationship Managers
+* Travel Company Owner arranges 1 or more Travel Package/Packages
+* Customer and Relationship Manager make and receive calls (caters for Inbound/Outbound calls)
+* Customer and Relationship Manager are matched with each other (regardless if Inbound or Outbound Call)
+* Customer purchases 1 or more Travel Package/Packages
+* Sale Item is composed of 1 or more Travel Package/Packages
+* Relationship Manager completes Questionnaire (used to create skill matrix)
+* Relationship Manager uses TargetList (Outbound Call)
+* Target List is composed of 1 or more Customer/Customers and 1 or more Travel Package/Packages
+* Relationship Manager makes 0 and more Sale Item/Items
 
 ### 6.4 Collaborative Diagram
 Collaborative Diagrams include Object Name, Actors, Links and Messages. They are used to show how object interact and their relationships. The following diagrams represents the system during an outbound and inbound call
@@ -469,8 +523,10 @@ The following list summarises the steps from the diagram:
 #### 6.4.2 Inbound Call
 ![Collaborative Diagram-Inbound](https://user-images.githubusercontent.com/49214046/83257299-6f07d600-a1f7-11ea-908e-aec5c4b35088.png)
 
-The customer calls the CMC. There are two things that happen when a customer calls using inbound method.
+For the Inbound Collaborative Diagram, there are two things that might happen when a customer calls the CMC system: 
+
 1. If the CMC is busy, the customer will be redirected to the Interactive Voice Response. This Interactive Voice Response will ask the customer reasons why they are calling the CMC. The customer will respond to the question. Based on the response, the Interactive Voice Response will redirect the customer to the automatic call distributor. When the customer is at this stage, they wait until there is an available Relationship Manager to attend to their needs.
+
 2. If the CMC is not busy, the customer and relationship manager profiles are retrieved from their profiler tools. They are matched based on the segmentation technique. After, the system requests for customer likelihood purchase score and relationship manager skill score which is calculated as they are matched. The customer with very high likelihood purchase scores are redirected to the next available Relationship Manager. The Relationship Manager will attend to their needs and try to sell the travel packages.
 
 
@@ -500,5 +556,6 @@ If the new system cannot function, there will be reduced shareholder interest an
 
 References:
 1. Bitner, M.J. 2011, ‘Self- service technologies: what do customers expect?’, American Marketing Association, vol. 10, no.1, p.10.
-2. Chandran, D. 2020, 'Lecture 5: Agile Scrum', UTS Online Subject 31257, lecture notes, UTS, Sydney, viewed 15 May 2020,<https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&content_id=_3756258_1>.
+2. Chandran, D. 2020, 'Lecture 5: Agile Scrum', UTS Online Subject 31257, lecture notes, UTS, Sydney, viewed 15 May 2020,
+< https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_41893_1&content_id=_3756258_1 >.
 
