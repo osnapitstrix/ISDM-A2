@@ -17,7 +17,7 @@ Github Repository Link: https://github.com/trixiea-25/ISDM-A2-Tut4Grp1
 
 
 ## Table of Contents
-- [SECTION 1. Project Definition and Project Objectives](#section-1-project-definition-and-project-objectives)
+- [SECTION 1. Problem Definition and Project Objectives](#section-1-problem-definition-and-project-objectives)
 - [SECTION 2: Stakeholders](#section-2-stakeholders)
 - [SECTION 3: Approach from a Design Thinking Perspective](#section-3-approach-from-a-design-thinking-perspective)
 	- [STEP 1.Empathise](#step-1empathise)
@@ -57,7 +57,7 @@ Github Repository Link: https://github.com/trixiea-25/ISDM-A2-Tut4Grp1
 		- [6.4.2 Inbound Call](#642-inbound-call)
 - [SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails](#section-7-competitive-advantages-and-adverse-effects-to-business-if-project-fails)
 
-## SECTION 1. Project Definition and Project Objectives
+## SECTION 1. Problem Definition and Project Objectives
 
 The project involves developing an information system to improve the operations of a major travel company's Call Management Centre (CMC). At current state there, the lack of an information system means that a lot of the functions are conducted manually and at an ad-hoc pace affecting the call flow rate. 
 
