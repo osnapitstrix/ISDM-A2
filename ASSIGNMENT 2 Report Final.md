@@ -299,6 +299,10 @@ Communication and meetings between team members were performed through online Zo
 
 During each meeting, project tasks were assigned to each group member to help the team iteratively work on the project within the given deadline. Moreover, the weekly team meetings enabled the team to deepen their understanding of what tasks and activities are required and to tell what roadblocks team members experienced to complete a particular task. The other team members were able to contribute their ideas for potential solutions. The team was also able to discern and openly discuss what tasks and activities were proven to be more challenging.
 
+This picture is some example of the issues created on Github.
+![image](https://user-images.githubusercontent.com/49214046/83376186-bd45f080-a414-11ea-9cfa-bd2cf07d6fa8.png)
+
+
 ### STEP 4: SPRINT REVIEW and SPRINT RETROSPECTIVE
 
 Each sprint ends with a sprint review and sprint retrospective. In the sprint review, the team analyses the product backlog and modifies it if required and make sure that incremental progress is made for each sprint. In the sprint retrospective, the team discusses the results found and determine how to make the development process better. The team evaluates what went well and what could be improved for future iterations. 
@@ -348,7 +352,7 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system by specifying the expected behaviours of the system. A use case diagram is never extremely detailed, just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other scenarios. 
 
-![travel company owner use case diagram](https://user-images.githubusercontent.com/62224150/83340662-51815c00-a31e-11ea-84f0-3bb832f91ae6.jpeg)
+![travel company owner use case diagram](https://user-images.githubusercontent.com/49214046/83376263-05651300-a415-11ea-98ec-386986796ed3.png)
 
 The following list summarises what is in the diagram:
 - The Travel Company Owner hires an employee they deem fit for the role of RM 
