@@ -50,7 +50,7 @@ Ishita Verghese|13209921 |
 
 ## SECTION 1. Project Definition and Project Objectives
 
-The project involves developing an information system to improve the operations of a major travel company's Call Management Centre (CMC). At current state there, the lack of an information system means that a lot of the functions are done manually and at an ad-hoc pace affecting the call flow rate. 
+The project involves developing an information system to improve the operations of a major travel company's Call Management Centre (CMC). At current state there, the lack of an information system means that a lot of the functions are conducted manually and at an ad-hoc pace affecting the call flow rate. 
 
 This proposal will uncover how an improved call routing and dynamic call flow system can better be used to achieve CMC's business goals by streamlining business processes to increase overall efficiency. The report will examine the five phases of design thinking principles to develop and test the system, the illustration of agile methodology and the assumptions required to develop the system prototype. Furthermore, a critical evaluation will be completed to provide a comparison highlighting competitive advantages that will accompany the implementation of the new information system. 
 
@@ -125,6 +125,23 @@ The interviewees' perspectives from the empathy map can be used as a guideline f
 
 ### STEP 4. Prototype
 The prototyping stage will involve the system developers producing inexpensive, scaled-down versions of the proposed application, capturing all required features. This will be done in an iterative process by continuous check-ins with the Travel Company owner and other stakeholders to ensure the system is meeting their needs. The prototype will be tested/used by the staff of CMC to identify whether the system achieves the best possible solution for the issues acknowledged in the previous stages of this process. The system solutions which will increase efficiency by streamlining the interactions process will be highlighted within the prototype. 
+
+Prototype screenshot 1: Customer Target List 
+
+![image](https://user-images.githubusercontent.com/62224079/83365885-ea7fa800-a3ee-11ea-9170-3007e444f53d.png)
+
+
+Prototype screenshot 2: Customer Target List - customer 
+
+![image](https://user-images.githubusercontent.com/62224079/83365958-772a6600-a3ef-11ea-83a3-45622d40f35e.png)
+
+Prototype screenshot 3: Current Employee List
+
+<img src = "https://user-images.githubusercontent.com/62224079/83366096-397a0d00-a3f0-11ea-94ac-7672b0fb34b9.png" width = 13cm and height = 9cm"/>
+
+Prototype screenshot 4: Available Travel Packages List 
+
+Prototype screenshot 5: Travel Package Order - customer 
 
 ### STEP 5. Testing
 During the testing phase, system testers will test against user acceptance tests to ensure full functionality of the system. Future users of the system/other stakeholders will also experiment with the developed prototype. The results, driven from this stage, will allow for redefining the issue if needed and derive a full understanding of the user experience along with their conditions of use.  
