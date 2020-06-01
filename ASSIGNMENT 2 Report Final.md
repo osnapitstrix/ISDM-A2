@@ -128,25 +128,21 @@ The interviewees' perspectives from the empathy map can be used as a guideline f
 ### STEP 4. Prototype
 The prototyping stage will involve the system developers producing inexpensive, scaled-down versions of the proposed application, capturing all required features. This will be done in an iterative process by continuous check-ins with the Travel Company owner and other stakeholders to ensure the system is meeting their needs. The prototype will be tested/used by the staff of CMC to identify whether the system achieves the best possible solution for the issues acknowledged in the previous stages of this process. The system solutions which will increase efficiency by streamlining the interactions process will be highlighted within the prototype. 
 
-Prototype screenshot 1: Customer Target List 
+4.1 Prototype: Generated Customer Target List 
 
 ![image](https://user-images.githubusercontent.com/62224079/83365885-ea7fa800-a3ee-11ea-9170-3007e444f53d.png)
 
-
-Prototype screenshot 2: Customer Target List - customer 
+4.2 Prototype: Customer Details for Generated Target List
 
 ![image](https://user-images.githubusercontent.com/62224079/83365958-772a6600-a3ef-11ea-83a3-45622d40f35e.png)
 
-Prototype screenshot 3: Current Employee List
-
+4.3 Prototype: Current Employee List (Relationship Managers)
 ![image](https://user-images.githubusercontent.com/62224079/83366148-9249a580-a3f0-11ea-8c0f-a3526c49538f.png)
 
-Prototype screenshot 4: Available Travel Packages List 
-
+4.4 Prototype: Records of Customer Travel Package Purchases
 ![image](https://user-images.githubusercontent.com/62224079/83366167-c91fbb80-a3f0-11ea-8fca-5e207882d553.png)
 
-Prototype screenshot 5: Travel Package Order - customer 
-
+4.5 Prototype: Travel Package Order Details for Customer
 ![image](https://user-images.githubusercontent.com/62224079/83366195-db99f500-a3f0-11ea-9e53-cc3ebc77b7db.png)
 
 ### STEP 5. Testing
@@ -352,7 +348,7 @@ Each sprint ends with a sprint review and sprint retrospective. In the sprint re
 
 A Unified Modified Language Use Case Diagram is the main form of requirements model which depicts the interactions between a user and a system. It presents an outside view of the underdeveloped system by specifying the expected behaviours of the system. A use case diagram is never extremely detailed, just showing the flow of events through capturing the functionality of each use case and its interactions with the stakeholders and other scenarios. 
 
-![travel company owner use case diagram](https://user-images.githubusercontent.com/49214046/83376263-05651300-a415-11ea-98ec-386986796ed3.png)
+<img src="https://user-images.githubusercontent.com/49214046/83376422-7d333d80-a415-11ea-9911-4fa658028112.png" width="500" height="550"  />
 
 The following list summarises what is in the diagram:
 - The Travel Company Owner hires an employee they deem fit for the role of RM 
