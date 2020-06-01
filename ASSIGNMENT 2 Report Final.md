@@ -93,7 +93,7 @@ From the data gathered, it will allow for better exploration and understanding o
 of their in-house call management centre (CMC)". With these details, the system designers/developers can envision the functions, features and other elements of the system, which will assist in solving the defined problem. 
 
 ### STEP 3. Ideate
-This stage is the most fundamental to the creative development associated with design thinking. By the utilisation of ideation techniques, i.e. asking "How Might We..." questions, allows for the expansion and further breakdown of the problem space and stimulates free thinking. Furthermore, the added understanding of a potential customer or other stakeholders pains and gains, the project team are able to look for alternative ways to view the problem. Additionally, the empathy maps developed in stage 1 illustrate the interviewees' pains and gains on the potential change. 
+This stage is the most fundamental to the creative development associated with design thinking. By the utilisation of ideation techniques, i.e. asking "How Might We..." questions allows for the expansion and further breakdown of the problem space and stimulates free thinking. Furthermore, the added understanding of a potential customer or other stakeholders pains and gains, the project team are able to look for alternative ways to view the problem. Additionally, the empathy maps developed in stage 1 illustrate the interviewees' pains and gains on the potential change. 
 
 The interviewees' perspectives from the empathy map can be used as a guideline for developing "how might we" ("HMW") statements to kick start brainstorming or further ideation sessions for the project team. 
 
@@ -122,7 +122,7 @@ The interviewees' perspectives from the empathy map can be used as a guideline f
 ![image](https://user-images.githubusercontent.com/62224079/83110323-3dfba880-a106-11ea-8e78-463981ffe38b.png)
 
 #### 3.3.2 Stakeholder 3: Travel Company Owner How Might We Statement
-1. How might we improve the operation of the the CMC?
+1. How might we improve the operation of the CMC?
 2. How might we improve the skills of the relationship managers to serve customers effectively and efficiently?
 3. How might we improve the packages available to customers? 
 4. How might we ensure we have the best packages available in comparison to our competitors? 
@@ -160,7 +160,7 @@ During the testing phase, system testers will test against user acceptance tests
 Using the empathy maps we have as a team been able to evaluate the customer and their relationship with the RM, which allowed us to attain different perceptions of the customer and the RM. It allowed us to understand how the customer may feel and their needs and wants regarding this experience. We concluded that the customer going into this experience does not have any knowledge and is merely a curious client wanting to be given all the knowledge possible in regards to travel packages. The customer will continue to extract more information to increase their understanding and knowledge about the travel packages and what will work best for them. We have also identified the three key stakeholders within this company as being the Relationship Manager (RM), the customer and the Manager of the RM's/Company as we believe these are the main roles involved and that hold sufficient interest within the company. In regards to the prototype, we as a team will decide which possible prototype design we feel will succeed and provide us as the most breakthrough solution. Through some further brainstorming, we concluded that some solutions we could implement are collaborating with other airlines and developing sale and inventory system application.
 
 ## SECTION 4. Agile Methodology: Scrum
-Agile models refers to a group of software development methodologies based on iterative development. The agile methodology that will be useful for the travel company is Scrum. ‘Scrum is an agile process that allows us to focus on delivering the business value in the shortest time.’ (Chandran 2020).  Scrum also involves a self-organising team of product owner, scrum master and development team roles. This team must adapt to changing business and technology needs and ‘accomplish the work without depending on others’. (Chandran 2020)
+Agile models refer to a group of software development methodologies based on iterative development. The agile methodology that will be useful for the travel company is Scrum. ‘Scrum is an agile process that allows us to focus on delivering the business value in the shortest time.’ (Chandran 2020).  Scrum also involves a self-organising team of product owner, scrum master and development team roles. This team must adapt to changing business and technology needs and ‘accomplish the work without depending on others’. (Chandran 2020)
 
 Through thorough consideration, each group member was assigned one of the three main roles for Scrum: 
 1. Product Owner - Areeba
@@ -175,7 +175,7 @@ After the team roles were assigned, the team followed the sequence of steps for 
 
 ### STEP 1: CREATE SCRUM ARTIFACT 1: PRIORTISED PRODUCT/PROJECT BACKLOG
 
-This product backlog was made by product owner and contains user stories for each of the identified stakeholders.
+This product backlog was made by the  product owner and contains user stories for each of the identified stakeholders.
 
 #### 4.1.1  Stakeholder 1: Customer Product Backlog
 
@@ -185,10 +185,10 @@ C001 | Customer | I want to quickly contact a Relationship Manager | So that I c
 C002 | Customer | I want to talk to a knowledgeable Relationship Manager | So that my queries are answered  | High | 2
 C003 | Customer | I want to book a holiday| So that I travel abroad to my desired destination | High | 2 |
 C004 | Customer | I want to have a high likelihood purchase score | So that I can be matched to the next available Relationship Manager that also has a high skill score | High | 2
-C005 | Customer | I want to be purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 2
-C006 | Customer | I want to ensure I will not miss any promotional package deals and purchase the most cost effective package | So that I can get the best package at a lower price | High | 3
+C005 | Customer | I want to purchase a package that has the shortest travel time| So that I can get more time at my destination and save travel time| High | 2
+C006 | Customer | I want to ensure I will not miss any promotional package deals and purchase the most cost-effective package | So that I can get the best package at a lower price | High | 3
 C007 | Customer | I want a smooth experience from Relationship Manager | So that I can give good feedback and increase the RM skill score | Medium | 2
-C008 | Customer | I want to be matched with a relationship manager twho has the same culture as me | So that they can understand my culture and social area | Medium | 2
+C008 | Customer | I want to be matched with a relationship manager who has the same culture as me | So that they can understand my culture and social area and background | Medium | 2
 COO9 | Customer | I want to ensure the company stores my data in a secure location | So that I do not need to worry about data breaches | Low | 2
 
 #### 4.1.2 Stakeholder 2: Relationship Manager Product Backlog
@@ -196,29 +196,29 @@ Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
 R001| Relationship Manager |I want to provide correct and detailed information to the customer | So that I can sell a package | High | 1 |
 R002 | Relationship Manager | I want to sell many packages as possible and serve customers effectively and efficiently | So that my performance in the skill matrix gets adjusted  | High | 1
-R003 | Relationship Manager | I want to target potential buyers with outbound call with the automatically dialing system | So that the the pool of customers gets expanded| High | 1
+R003 | Relationship Manager | I want to target potential buyers using the automatic dialed target list through outbound calls | So that the pool of customers gets expanded| High | 1
 R004 | Relationship Manager | I want to reduce the call wait times for customers | So that the customers do not provide negative feedback | High | 1
 R005 | Relationship Manager| I want to be prepared with the various packages available before discussing with customers | So that I can provide answers to customers if there are any queries | High | 2|
 R006 | Relationship Manager | I want to be connected to customers with higher scores first| So that I can encourage quick and repeat sales |Medium |2
 R007 | Relationship Manager| I want my subsequent performance score not to go low | So that I can match with more customers and answer their queries| Medium | 2
 R008 | Relationship Manager | I want to be matched with a customer who has the same culture as me | So that I can understand their social and culture area | Medium | 2 
-R009| Relationship Manager | I want to maintain positive/professional attitude towards customers | So that customer satisfaction is kept | Medium | 2
+R009| Relationship Manager | I want to maintain a positive/professional attitude towards customers | So that customer satisfaction is kept | Medium | 2
 R010 | Relationship Manager | I want to have more professional development training| So that I can improve the selling techniques and the system can increase my performance score | Medium | 2
 
 #### 4.1.3 Travel Company Owner Product Backlog
 Use Case ID|User | Need | Insight | Priority | Estimation |
 --------|----- | ----| --------| ---------| ---------  |
 M001 | Travel Company Owner| I want to hire and train relationship managers | So that they can provide the best customer service and can attend to the customer needs | High | 1
-M002| Travel Company Owner| I want to analyse the customers preferences for packages | So that I can create or arrange more travel packages that satisfy customer needs | High | 2
-M003 | Travel Company Owner |I want to ensure that the relationship manager know how to handle different situations | So that the customer's experience is smooth and improve their skill score | High | 2 |
+M002| Travel Company Owner| I want to analyse the customers' preferences for packages | So that I can create or arrange more travel packages that satisfy customer needs | High | 2
+M003 | Travel Company Owner |I want to ensure that the relationship manager knows how to handle different situations | So that the customer's experience is smooth and improve their skill score | High | 2 |
 M004 | Travel Company Owner| I want to ensure the relationship managers are achieving the desired number of sold packages and take corrective action if required| So that the business can meet their goals and it allows for more profit| Medium | 1
 M005 | Travel Company Owner| I want to constantly improve the call handling of the CMC system | So that the business can gain competitive advantage and customers stay loyal to the company| Medium | 2
 M006 | Travel Company Owner| I want to reward the relationship managers with high performance | So that the relationship managers are motivated and strive to do their best with the customers | Low | 2
-M007 | Travel Company Owner| I want to regularly communicate with all relationship managers through the data analytics reports | So that the business can improve and maximise efficiency of business process | Low | 2
+M007 | Travel Company Owner| I want to regularly communicate with all relationship managers through the data analytics reports | So that the business can improve and maximise the efficiency of business process | Low | 2
 
 ### STEP 2:  SPRINT PLANNING AND CREATING SCRUM ARTIFACT 2: SPRINT BACKLOG
 
-Sprint Planning involves defining the requirements for each sprint and decide forecasts based on the product backlog. This sprint meetings are run by the Scrum Master and ensure that all team members agree with the objectives and goals provided by the product owner are achieved. The team also filtered which items in the product backlog were more important and the sequence to complete all tasks. The development team also clarifies misunderstandings and plan how they can or cannot deliver specific goals.
+Sprint Planning involves defining the requirements for each sprint and decide forecasts based on the product backlog. These sprint meetings are run by the Scrum Master and ensure that all team members agree with the objectives and goals provided by the product owner are achieved. The team also filtered which items in the product backlog were more important and the sequence to complete all tasks. The development team also clarifies misunderstandings and plan how they can or cannot deliver specific goals.
 
 #### SPRINT 1 BACKLOG:
  <table>
@@ -294,7 +294,7 @@ Sprint Planning involves defining the requirements for each sprint and decide fo
 	 <td>Run for 30 days and have a maximum of 1 day to complete the planning</td>
 </table>
 
-The sprints were monitored through issues with the necessary tasks to be completed. These issues were created, opened and closing when the specific assigned task has been finished. Github provided the team version control and records of all the changes made in the document. It allows the team to see how the report has modified the report, compare to previous changes and revert changes if required. 
+The sprints were monitored through issues with the necessary tasks to be completed. These issues were created, opened and closing when the specific assigned task has been finished. Github provided the team version control and records of all the changes made in the document. It allows the team to see how the report has been modified, compare the current version to previous changes and revert old versions if required. 
 
 ### STEP 3: SCRUM MEETINGS
 
@@ -370,7 +370,7 @@ The following list summarises what is in the diagram:
 |User Story | I want to hire and train relationship managers |
 |Goal | So that they can provide the best customer service and can attend to the customer needs |
 |Priority| High |
-|Actors| Travel Company Owner, Relatioship Manager (RM) |
+|Actors| Travel Company Owner, Relationship Manager (RM) |
 |Pre Conditions| Employee is interested in a job at the company |
 |Post Conditions| Travel Company Owner has hired and trained a RM, Employee now has a job as a RM |
 |Trigger| Employee is interested in a job at the company |
@@ -385,7 +385,7 @@ The following list summarises what is in the diagram:
 
 The following list summarises what is in the diagram:
 - The customer creates a profile with the help of the RM, through answering a questionnaire
-- The customers wants to book a holiday in order to travel abroad to their desired destination. In order to do that they wish to speak to a knowledagble RM whom can answer all their queries and concerns. Through their interest and the RM's instructions they then create a profile. This profile is created through the questionnaire in which they answer a few questions about themself. This profile can now be viewed by the customer, RM and the Travel Company Manager. 
+- The customers wants to book a holiday in order to travel abroad to their desired destination. In order to do that they wish to speak to a knowledgeable RM who can answer all their queries and concerns. Through their interest and the RM's instructions they then create a profile. This profile is created through the questionnaire in which they answer a few questions about themself. This profile can now be viewed by the customer, RM and the Travel Company Manager. 
 - Communication between the customer and RM is conducted through inbound and outbound calls which are either made or received by either one of them
 - The customer also wishes to be aware of any promotional packages which the RM and Travel Company owner arrange. This is enabled by the RM utilising the target list to ensure the customer receives the promotional package details every time.
 - the customer depends on the target list to ensure they receive promotional packages
@@ -398,7 +398,7 @@ The following list summarises what is in the diagram:
 |User Story | I want to talk to a knowledgeable Relationship Manager|
 |Goal | So that I can have all my queries answered |
 |Priority| High |
-|Actors| Customer, Relatioship Manager (RM) |
+|Actors| Customer, Relationship Manager (RM) |
 |Pre Conditions| Customer is interested in booking a holiday destination |
 |Post Conditions| Customer can purchase or book a trip as well as have a profile created by then.The profile can be viewed by the customer, RM, and the travel company owner. |
 |Trigger| Customer calls company due to their interest in booking a holiday |
@@ -407,8 +407,8 @@ The following list summarises what is in the diagram:
 |Includes/Excludes/Inherits| C001, C003, C005, C006 |
 |Supporting Information| None |
 |Non-functional Requirements| None |
-|Alternate Flow 1| 11. Customer does not want to book holiday
-|Trigger| Customer is not interest in presented information |
+|Alternate Flow 1| 11. Customer does not want to book a  holiday
+|Trigger| Customer is not interested in presented information |
 |Steps| re-join at step 13
 |Post Conditions|
 |Exceptions| 
@@ -416,9 +416,9 @@ The following list summarises what is in the diagram:
 ![Use Case Diagram for RM](https://user-images.githubusercontent.com/49214046/83258142-16d1d380-a1f9-11ea-999e-acda3e8f79c7.png)
 
 The following list summarises what is in the diagram: 
-- The RM is in direct contact with the customer and provides them with correct and detailled information in order to sell as many packages as possible and earn a high skill matrix scrore through their quality customer service and positive and professional attitude they provide to each individual customer
+- The RM is in direct contact with the customer and provides them with correct and detailed information in order to sell as many packages as possible and earn a high skill matrix score through their quality customer service and positive and professional attitude they provide to each individual customer
 - The RM depends on the customer to pay them when they book a trip or when they make their official payment for the trip
-- The RM is in charge of arranging promotional packages through arranging travel packges with the help of the Travel Company Owner
+- The RM is in charge of arranging promotional packages through arranging travel packages with the help of the Travel Company Owner
 - The RM conducts a questionnaire which the customer depends on in order to create their profile
 - The RM creates a target list in order to advertise promotional packages 
 
@@ -483,7 +483,7 @@ The following list summarises what is happening between an RM and the third-part
 
 ### 6.3 Class Diagram
 
-Unified Modified Language Class diagrams provide general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
+Unified Modified Language Class diagrams provide a general overview of the schematics of an application. In this case, the class diagram help model the information system used for the project and features nine attributes namely: TravelCompanyOwner, RelationshipManager, Customer, Call, TargetList, TravelPackage, SaleItem, Match and Questionnaire. In addition, the class diagram shows the association name, aggregation and composition relationships with their respective associations' multiplicity (1 to 1, 1 to 0..* and 1 to 1..*).
 
 <img align="center">
 <img src="https://user-images.githubusercontent.com/49214046/82742268-5040b400-9d9f-11ea-9640-454210e5a0e0.jpg" width="900" height="750"  />
@@ -501,7 +501,7 @@ Unified Modified Language Class diagrams provide general overview of the schemat
 * Relationship Manager makes 0 and more Sale Item/Items
 
 ### 6.4 Collaborative Diagram
-Collaborative Diagrams include Object Name, Actors, Links and Messages. They are used to show how object interact and their relationships. The following diagrams represents the system during an outbound and inbound call
+Collaborative Diagrams include Object Name, Actors, Links and Messages. They are used to show how objects interact and their relationships. The following diagrams represent the system during an outbound and inbound call.
 
 #### 6.4.1 Outbound Call
 
@@ -525,7 +525,7 @@ The following list summarises the steps from the diagram:
 
 6.2 The Relationship Manager retrieves the script/guidelines and proceeds to Step 7.
 
-7. The Relationship Manaager calls the target customer and try to sell a travel package.
+7. The Relationship Manager calls the target customer and tries to sell a travel package.
 
 #### 6.4.2 Inbound Call
 ![Collaborative Diagram-Inbound](https://user-images.githubusercontent.com/49214046/83257299-6f07d600-a1f7-11ea-908e-aec5c4b35088.png)
@@ -534,7 +534,7 @@ For the Inbound Collaborative Diagram, there are two things that might happen wh
 
 1. If the CMC is busy, the customer will be redirected to the Interactive Voice Response. This Interactive Voice Response will ask the customer reasons why they are calling the CMC. The customer will respond to the question. Based on the response, the Interactive Voice Response will redirect the customer to the automatic call distributor. When the customer is at this stage, they wait until there is an available Relationship Manager to attend to their needs.
 
-2. If the CMC is not busy, the customer and relationship manager profiles are retrieved from their profiler tools. They are matched based on the segmentation technique. After, the system requests for customer likelihood purchase score and relationship manager skill score which is calculated as they are matched. The customer with very high likelihood purchase scores are redirected to the next available Relationship Manager. The Relationship Manager will attend to their needs and try to sell the travel packages.
+2. If the CMC is not busy, the customer and relationship manager profiles are retrieved from their profiler tools. They are matched based on the segmentation technique. After, the system requests for customer likelihood purchase score and relationship manager skill score which is calculated as they are matched. The customers with very high likelihood purchase scores are redirected to the next available Relationship Manager. The Relationship Manager will attend to their needs and try to sell the travel packages.
 
 
 ## SECTION 7: Competitive Advantages and Adverse Effects to Business if Project Fails
@@ -550,7 +550,7 @@ The new information system will also encourage the company to achieve economies 
 
  3. Increased shareholders profits for R&D
  
-Another advantage the new system would bring to the company is greater shareholder interest and funding. A successful system would be able to generate increased profits for the company, resulting in support from shareholders, who will receive a greater dividend in return. Recognition from shareholders is vital for the company if it wants research and development to improve the current new system in the future. By consistently updating the system, the company ensures they remain at the top the industry.
+Another advantage the new system would bring to the company is greater shareholder interest and funding. A successful system would be able to generate increased profits for the company, resulting in support from shareholders, who will receive a greater dividend in return. Recognition from shareholders is vital for the company if it wants research and development to improve the current new system in the future. By consistently updating the system, the company ensures they remain at the top of the industry.
 
 Disadvantages:
  1. If the new project fails in its differentiation, there is an increased risk of losing both potentials and repeat clients. The standout feature in this company is their call management centre (CMC), which can allocate RMs to customers, based on their travel needs and purchase history. If the vital component of the new system fails, it would cause frustration amongst customers and decrease an RMs selling streak. Eventually, the longevity of the company will be compromised.
