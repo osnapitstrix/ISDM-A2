@@ -137,11 +137,15 @@ Prototype screenshot 2: Customer Target List - customer
 
 Prototype screenshot 3: Current Employee List
 
-<img src = "https://user-images.githubusercontent.com/62224079/83366096-397a0d00-a3f0-11ea-94ac-7672b0fb34b9.png" width = 13cm and height = 9cm"/>
+![image](https://user-images.githubusercontent.com/62224079/83366148-9249a580-a3f0-11ea-8c0f-a3526c49538f.png)
 
 Prototype screenshot 4: Available Travel Packages List 
 
+![image](https://user-images.githubusercontent.com/62224079/83366167-c91fbb80-a3f0-11ea-8fca-5e207882d553.png)
+
 Prototype screenshot 5: Travel Package Order - customer 
+
+![image](https://user-images.githubusercontent.com/62224079/83366195-db99f500-a3f0-11ea-9e53-cc3ebc77b7db.png)
 
 ### STEP 5. Testing
 During the testing phase, system testers will test against user acceptance tests to ensure full functionality of the system. Future users of the system/other stakeholders will also experiment with the developed prototype. The results, driven from this stage, will allow for redefining the issue if needed and derive a full understanding of the user experience along with their conditions of use.  
