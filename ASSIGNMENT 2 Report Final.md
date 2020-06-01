@@ -194,7 +194,7 @@ R002 | Relationship Manager | I want to sell many packages as possible and serve
 R003 | Relationship Manager | I want to target potential buyers with outbound call with the automatically dialing system | So that the the pool of customers gets expanded| High | 1
 R004 | Relationship Manager | I want to reduce the call wait times for customers | So that the customers do not provide negative feedback | High | 1
 R005 | Relationship Manager| I want to be prepared with the various packages available before discussing with customers | So that I can provide answers to customers if there are any queries | High | 2|
-R006 | Relationship Manager | I want to be connected to customers with higher scores first| So that I can encourage quick and repeat sales |Medium |3
+R006 | Relationship Manager | I want to be connected to customers with higher scores first| So that I can encourage quick and repeat sales |Medium |2
 R007 | Relationship Manager| I want my subsequent performance score not to go low | So that I can match with more customers and answer their queries| Medium | 2
 R008 | Relationship Manager | I want to be matched with a customer who has the same culture as me | So that I can understand their social and culture area | Medium | 2 
 R009| Relationship Manager | I want to maintain positive/professional attitude towards customers | So that customer satisfaction is kept | Medium | 2
